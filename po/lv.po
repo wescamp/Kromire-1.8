@@ -1,0 +1,1699 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-11-17 22:04+0100\n"
+"PO-Revision-Date: 2009-11-17 22:04+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
+"2);\n"
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:14
+msgid "Count Kromire"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:19
+msgid "Lord"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:19
+msgid "(easiest)"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:20
+msgid "Sire"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:21
+msgid "(hardest)"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:21
+msgid "Conquerer"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:22
+msgid ""
+"You are the blood son of a vampire lord, however when the might of the "
+"celestial crusades comes knocking, and your father is slain, you flee your "
+"lands. However you intend to return, to restore the lands of Kromire to the "
+"Kromires, to avenge your father, and most importantly, to make sure that no "
+"celestial ever dares come into your mountains again."
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:24
+msgid "Version:"
+msgstr ""
+
+#. [campaign]: id=Count_Kromire
+#: Kromire/_main.cfg:25
+msgid "(requires the Era of Myths Epsilon 6 or later)"
+msgstr ""
+
+#. [scenario]: id=Therian_Village
+#: Kromire/scenarios/1Therian_Village.cfg:10
+msgid "The Therian Village"
+msgstr ""
+
+#. [side]: type=EOM_Noble, id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:31 Kromire/scenarios/2Devilings.cfg:31
+#: Kromire/scenarios/4Counterattack.cfg:31 Kromire/scenarios/7Alliance.cfg:29
+#: Kromire/scenarios/1Therian_Village.cfg:43 Kromire/scenarios/5Time.cfg:32
+#: Kromire/scenarios/6Meetings.cfg:32 Kromire/scenarios/8Return.cfg:31
+#: Kromire/scenarios/9Prophecy.cfg:31
+msgid "Kromire"
+msgstr ""
+
+#. [unit]: type=EOM_Blood_Manipulator, id=Igor
+#: Kromire/scenarios/1Therian_Village.cfg:53
+msgid "Igor"
+msgstr ""
+
+#. [side]: type=EOM_Therian_Shaman, id=shaman
+#: Kromire/scenarios/1Therian_Village.cfg:72
+msgid "shaman"
+msgstr ""
+
+#. [side]: type=EOM_Claimant, id=cleader
+#: Kromire/scenarios/1Therian_Village.cfg:155
+msgid "Celestial Leader"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:168
+msgid ""
+"Count Kromire: For centuries, the Kromires had ruled as vampire lords in the "
+"mountains to the east of the Bale Plains, which is  where the Celestials "
+"rule. The Celestials had embarked on a holy crusade, but had failed to crush "
+"the vampires to their west. Noting the power of their foe, they spent time "
+"building up their army over the next decade. We knew that their next crusade "
+"was to be launched soon, and that, failing in the west, they would now push "
+"to the east. Towards us."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:171
+msgid ""
+"And so they came. Hordes of men in white armor bearing spears and swords "
+"imbued with strange enchantments, and led by those with wings and spirits "
+"that burn with arcane light. Their numbers were limitless, and their power "
+"undaunted, even by our darkness. In the past, we had easily driven off the "
+"posturing Celestials, but this time their forces were too great. Some "
+"attributed this to the new Count Kromire."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:174
+msgid ""
+"The new count had an exceedingly eccentric manner, and so had chosen me as "
+"his heir. I was not the strongest or the smartest of his offspring, but I "
+"was the most cunning. As his heir, I was to be his chosen lieutenant, and so "
+"that is why I was given the task to hold the walls. While I knew this was "
+"suicide, I was bound to him by blood, and that is the little our kind holds "
+"sacred."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:177
+msgid ""
+"Our forces were helplessly outnumbered, but I fought on because to lose "
+"meant certain doom. I held the Celestials off as long as I could, but we "
+"were beaten back from the walls and retreated into the keep. Desperately "
+"fighting to keep them out, I suddenly felt a snap in my chest and knew that "
+"my father, the lord of darkness, was now dead."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:180
+msgid ""
+"Recognizing my plight, my father's valet appeared at my shoulder, and led me "
+"into the catacombs to escape into the woods. He swore loyalty to me as "
+"successor to the line. I accepted his pledge, and we both took off toward "
+"the Therian village at the base of the mountains, knowing that we could "
+"start the clan anew."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/1Therian_Village.cfg:183
+msgid ""
+"Though neither of us said it, we both knew that we'd return to reclaim our "
+"lands, to avenge my foolish father, and to send the celestials back to their "
+"plains. They had come to view the vampires as pests to be eradicated, but we "
+"would make them fear us as hunters to be avoided."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/1Therian_Village.cfg:196
+msgid "Defeat the enemy leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Kromire/scenarios/3Michbie.cfg:149 Kromire/scenarios/2Devilings.cfg:306
+#: Kromire/scenarios/4Counterattack.cfg:136
+#: Kromire/scenarios/1Therian_Village.cfg:200
+#: Kromire/scenarios/1Therian_Village.cfg:331
+#: Kromire/scenarios/1Therian_Village.cfg:509 Kromire/scenarios/5Time.cfg:651
+#: Kromire/scenarios/6Meetings.cfg:179 Kromire/scenarios/8Return.cfg:142
+#: Kromire/scenarios/8Return.cfg:274 Kromire/scenarios/9Prophecy.cfg:182
+msgid "Death of Kromire"
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/1Therian_Village.cfg:209
+msgid "Look master the village ith nearby."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:213
+msgid ""
+"Hurry slave, we need to slay their leader without alerting their guard. If "
+"we can take the keep, we can turn the peasants to our side. Do not alert "
+"them prematurely. If you must fight, kill them before they can so much as "
+"squeak."
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Kromire/scenarios/1Therian_Village.cfg:226
+msgid ""
+"You! Foul creature, what are you doing here? Do you not know that the "
+"celestials are coming? They will hew all your kind to the ground!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:230
+msgid ""
+"Oh, no worries... friend. We intend to be prepared for them, and your "
+"village is a part of the preparation. You should feel duly honored."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Kromire/scenarios/1Therian_Village.cfg:243
+msgid "We are being raided by vampires! Call the militia, we'll hold them off."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:247
+msgid "Fool."
+msgstr ""
+
+#. [message]: id=Woodsman
+#: Kromire/scenarios/1Therian_Village.cfg:269
+msgid "Who are you? Get out of my house!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:273
+msgid "Kill him, quickly now! Before he can set of the alarm!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:286
+#: Kromire/scenarios/1Therian_Village.cfg:464
+msgid "Quickly grab whatever villagers you can before they all flee."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Kromire/scenarios/1Therian_Village.cfg:290
+#: Kromire/scenarios/1Therian_Village.cfg:468
+msgid "A day later..."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/1Therian_Village.cfg:300
+#: Kromire/scenarios/1Therian_Village.cfg:478
+msgid "Thith ith all master. The retht, 'ave gotten away."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:304
+#: Kromire/scenarios/1Therian_Village.cfg:482
+msgid ""
+"I'm only about half way through turning them. One more day, and then we will "
+"be ready to travel."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Kromire/scenarios/1Therian_Village.cfg:308
+#: Kromire/scenarios/1Therian_Village.cfg:486
+msgid "The next day dawns..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:313
+msgid "Now that they are all mine it is time to -wait..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:317
+#: Kromire/scenarios/1Therian_Village.cfg:495
+msgid ""
+"I can smell celestial blood... it is coming closer. There is not much of it, "
+"though, we shall stand and fight. Our new clan members are still new to the "
+"blood, but we will lead them to victory over these arrogant warriors of "
+"light."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/1Therian_Village.cfg:327
+msgid "Defeat the celestial army"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:491
+msgid "Now that they're all mine it's time to - wait..."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/1Therian_Village.cfg:505
+msgid "Defeat the celestial forces"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/1Therian_Village.cfg:637
+msgid ""
+"Let us be off, that was only a scouting party. The main army is more than "
+"our forces can handle... yet."
+msgstr ""
+
+#. [scenario]: id=CK_Devilings
+#: Kromire/scenarios/2Devilings.cfg:6
+msgid "Devilings"
+msgstr ""
+
+#. [side]: type=EOM_Lurker, id=d1
+#: Kromire/scenarios/2Devilings.cfg:45
+msgid "Guile"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Soldier, id=d2
+#: Kromire/scenarios/2Devilings.cfg:121
+msgid "Bulge"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/2Devilings.cfg:151
+msgid ""
+"We quickly gathered our new clan members, but I cringed inwardly at our "
+"numbers. My ardor to regain the castle was burning strongly, but I had too "
+"few men."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/2Devilings.cfg:154
+msgid ""
+"I was not naive, nor given to heroic fits. I would not charge the castle in "
+"some valiant effort to oust the Celestials. I would need more men, more new "
+"blood."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/2Devilings.cfg:157
+msgid ""
+"The largest hurdle in my path was that there were no more easy targets. That "
+"village was one of the few in the area not belonging to the vampires, as the "
+"monks of Theria had claimed it, and I had already drained it. I decided to "
+"head south."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/2Devilings.cfg:160
+msgid ""
+"Two days out from the village, I found an opportunity for blood... and for "
+"an alliance."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:194
+msgid ""
+"Is that a windsong warrior? They are uncommon around here, I wonder what her "
+"purpose is around here."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/2Devilings.cfg:198
+msgid "Master there are devlings all around. They assail her, even now."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:202
+msgid ""
+"The devlings assail her, perhaps then we can make something of this "
+"situation."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Kromire/scenarios/2Devilings.cfg:206
+msgid "Suddenly an image of the warrior appears before you."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:221
+msgid ""
+"Dare not bring battle to me, or I'll rend you apart even as these devilings."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:225
+msgid ""
+"I bear you no malice, nor thirst for your blood. I merely desire to "
+"understand your motive."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:229
+msgid ""
+"Don't lie to me, your kind thirst for everyones blood. What is my motive to "
+"you: leverage?"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:233
+msgid ""
+"Let us say that I find it very odd to find a windsong warrior battling a "
+"horde of devilings, when neither should be here at all. A part of me wonders "
+"if I ought to be doing something about it."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:237
+msgid ""
+"The devilings are not my cause of being here, merely an nuisance that keeps "
+"me from my quest. I know not why they are here."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:241
+msgid "I have not known the windsong to embark on quests."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:245
+msgid ""
+"Your kind's memories may be longer than most, but not nearly as long as our "
+"librarie's. On the occaision where a landmark manifests in time, as recorded "
+"by the Librarian Azzura, then a quest must be undertaken. Mine is one of "
+"these occasions, the pheonix has flown, and it is time to recover the "
+"prophecy of Merrian the Ascendant."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:249
+msgid "You seek that prophecy? I know where it is."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:253
+msgid ""
+"Then speak of its resting place, and know that I will detect if you lie, and "
+"crush you like a bug if you do."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:257
+msgid ""
+"There is no need for threats, it is only a dusty old book to me. It is in "
+"the catacomb vaults of Kromire Castle."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:261
+msgid ""
+"... I can tell that you do not lie ... but that is an odd place for it to "
+"be. No matter, the Kromires have always been very weak, and their count is a "
+"fool."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:265
+msgid ""
+"Perhaps, but I am the new Count Kromire. My lands have been overrun by the "
+"celestials, and I think that you would have a hard time convincing them to "
+"let you root around in my castle."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:269
+msgid ""
+"I will not let myself be stopped by the celestial hordes. I am bound by oath "
+"to acquire the scroll on which the prophecy is held."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:273
+msgid ""
+"I will help you on this venture, I have no love for the celestials, and "
+"would dearly like to have my lands back, and I know that although the might "
+"of the windsong is great, that you will need all the help you can get."
+msgstr ""
+
+#. [message]: id=projection
+#: Kromire/scenarios/2Devilings.cfg:277
+msgid ""
+"Then help me defeat these foolish devilings, I'll come back with an army of "
+"the windsong in a couple months, and mayhaps that between the two of us we "
+"could bring down the celestial armies. You have the word of Lisaundra, of "
+"the Oathkeeper caste."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:281
+msgid "I swear by my word as a Kromire, thus will be done."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Kromire/scenarios/2Devilings.cfg:288
+msgid "The phantom fades."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:293
+msgid ""
+"It is odd to meet one of the windsong so arrogant, and reckless. She is "
+"completely surrounded, and yet she threatens us."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/2Devilings.cfg:297
+msgid "Mayhap, she hath a reason to be so."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/2Devilings.cfg:302
+msgid "Destroy the Devilings"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Kromire/scenarios/2Devilings.cfg:310
+msgid "Death of Lisaundra"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/2Devilings.cfg:322
+msgid "..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:326
+msgid "With her dead, we've lost our chances of an alliance with the windsong."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/2Devilings.cfg:336
+msgid ""
+"Now I will leave. Expect me back when the bright moon is full, and the dark "
+"moon is new."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:344
+msgid ""
+"Excellent. The plans have been set, and if I can raise an army of my own, "
+"the castle will be mine again soon. I will need more minions to serve me."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/2Devilings.cfg:348
+msgid "The only people who have humans would be other vampires."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:352
+msgid ""
+"(thinking) We'll have to either make a deal with one of the other vampire "
+"lords, or launch a surprise attack in an attempt to conquer his lands."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:356
+msgid ""
+"(still thinking) The two vampire lords that are close by would be the "
+"Michbies and the Valemois. Neither of which I would trust to keep a bargain, "
+"but both are stronger than we are now."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:360
+msgid ""
+"(Still thinking) I cannot bargain with either in my current state, so I will "
+"conquer the Michbies in order to have the power to bargain with Valemoi."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/2Devilings.cfg:364
+msgid "Prepare for battle, the house of Michbie will soon be no more."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/2Devilings.cfg:368
+msgid "We obey."
+msgstr ""
+
+#. [side]: type=EOM_Noble, id=Michbie
+#. [scenario]: id=CK_Michbie
+#: Kromire/scenarios/3Michbie.cfg:6 Kromire/scenarios/3Michbie.cfg:44
+msgid "Michbie"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/3Michbie.cfg:87
+msgid ""
+"I chose the Michbies because their family was the weaker of the two, and "
+"thus offered me the best chance of winning."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/3Michbie.cfg:90
+msgid ""
+"Even though the keep was close, the time restraint placed by that Windsong "
+"warrior meant we marched with all haste."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/3Michbie.cfg:93
+msgid ""
+"The words of that Windsong had made me wonder about what the prophecy of "
+"Mirian could contain that was so important. I resolved to read it when I had "
+"the chance."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/3Michbie.cfg:96
+msgid ""
+"As we neared the keep, I spread my men out and we attempted to approach with "
+"stealth, but we were discovered. Our advantage lost, our enemy made ready "
+"for us, and so I rallied my troops to do battle."
+msgstr ""
+
+#. [message]: id=Michbie
+#: Kromire/scenarios/3Michbie.cfg:116
+msgid ""
+"So, little lordling, are you the new Count Kromire? I heard what happened, "
+"so do you come to my land as beggars or as potential slaves? I have enough "
+"pity for a fellow lord of the night, and I need a new valet. "
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:120
+msgid "Silence! You will not be so arrogant when your heart is pierced."
+msgstr ""
+
+#. [message]: id=Michbie
+#: Kromire/scenarios/3Michbie.cfg:124
+msgid ""
+"My my, quite feisty for a bat without a roost. I guess you are a bit "
+"irritable given your situation hmm? Your father was quite content to live "
+"fat and lazy off the labor and blood of his serfs, and never bothered to be "
+"wary of other dangers. Now you must pay the price for his lapse."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:128
+msgid ""
+"My father has paid for his faults, and lies dead, his lands lost. As the new "
+"Count Kromire, I mean to be all that he was not, and I will reclaim my "
+"lands. I am here to establish myself as the new power among our kind. I will "
+"be the conquerer, and you my serf."
+msgstr ""
+
+#. [message]: id=Michbie
+#: Kromire/scenarios/3Michbie.cfg:132
+msgid ""
+"Ah, the ignorance and arrogance of young pups knows no bounds. You've been "
+"given a taste of power, of responsibility, and you think. I see your forces, "
+"they are new to the blood, and few in number. You will die here."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:136
+msgid ""
+"Speak with you sword, Michbie, and our disagreement will be more soundly "
+"settled. I relish the chance to drink you dry."
+msgstr ""
+
+#. [message]: id=Michbie
+#: Kromire/scenarios/3Michbie.cfg:140
+msgid ""
+"Fool! I have given in to my strange fit of mercy, and I heard you out in an "
+"effort to spare you. No more! I will grant you your eternal sleep!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/3Michbie.cfg:145
+msgid "Slay Count Michbie"
+msgstr ""
+
+#. [message]: id=Michbie
+#: Kromire/scenarios/3Michbie.cfg:161
+msgid ""
+"My people you must resist this invader! If he succeeds, he will not be "
+"content to lord over you, but he will turn you all!"
+msgstr ""
+
+#. [message]: type=Peasant
+#: Kromire/scenarios/3Michbie.cfg:207
+msgid "Die you vampire fiend!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:211
+msgid ""
+"Delusional cattle. They willingly use one darkness to protect them from "
+"another. Do not kill all of them, beat them down and break them, but leave "
+"them alive for later."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/3Michbie.cfg:222
+msgid ""
+"It is done! Quickly, set up a perimeter, we must not let any of the serfs "
+"escape. I will need to turn all of them, and that will take time. Set up a "
+"guard, I will need protection while I work."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/3Michbie.cfg:226 Kromire/scenarios/8Return.cfg:302
+msgid "Yeth master."
+msgstr ""
+
+#. [scenario]: id=CK_Counter
+#: Kromire/scenarios/4Counterattack.cfg:6
+msgid "Counter"
+msgstr ""
+
+#. [side]: type=EOM_Therian_Defender, id=Tleader
+#: Kromire/scenarios/4Counterattack.cfg:77
+msgid "Therian captain"
+msgstr ""
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader
+#: Kromire/scenarios/4Counterattack.cfg:90
+msgid "Corian"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/4Counterattack.cfg:96
+msgid ""
+"While I went through the process of converting the serfs into vampires, I "
+"also spent a little bit of extra time training some of them. It would be "
+"useful to have more members of my army proficient in blood magic. This was "
+"to prove useful very soon."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/4Counterattack.cfg:99
+msgid ""
+"It had rained heavily all week, and so my normally sharp senses were "
+"deadened by the moisture. I had just finished with the last of those "
+"squirming fools when the smell of angry blood caught my nose. Enemies had "
+"come, and they were near!"
+msgstr ""
+
+#. [message]: id=Tleader
+#: Kromire/scenarios/4Counterattack.cfg:119
+msgid ""
+"Did you think you would get away with trashing our village so easily, "
+"bloodsucker?"
+msgstr ""
+
+#. [message]: id=Wleader
+#: Kromire/scenarios/4Counterattack.cfg:123
+msgid "Those who would hurt our brothers, hurts us. We avenge our own."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/4Counterattack.cfg:127
+msgid ""
+"You are fools to come back. My strength is now twice what it was, and I have "
+"a whole army of followers to do my bidding. Do not expect mercy. It is time "
+"for the worms to feast on your flesh!"
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/4Counterattack.cfg:132 Kromire/scenarios/5Time.cfg:647
+#: Kromire/scenarios/6Meetings.cfg:175
+msgid "Defeat your foes"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/4Counterattack.cfg:145
+msgid ""
+"My children... I think it is time to pay a visit to count Valemoi. His death "
+"will give me the power I need to challenge the Celestials!"
+msgstr ""
+
+#. [scenario]: id=CK_Time
+#: Kromire/scenarios/5Time.cfg:6
+msgid "Valemoi"
+msgstr ""
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader
+#: Kromire/scenarios/5Time.cfg:46
+msgid "Verwl"
+msgstr ""
+
+#. [side]: type=EOM_Pack_Leader, id=Wleader2
+#: Kromire/scenarios/5Time.cfg:63
+msgid "Crwa"
+msgstr ""
+
+#. [side]: type=EOM_Djinn, id=Eleader
+#: Kromire/scenarios/5Time.cfg:79
+msgid "Visine"
+msgstr ""
+
+#. [side]: type=EOM_Rock_Golem, id=Eleader2
+#: Kromire/scenarios/5Time.cfg:97
+msgid "Obsidian"
+msgstr ""
+
+#. [side]: type=EOM_Sangel, id=Vleader
+#: Kromire/scenarios/5Time.cfg:115
+msgid "Count Valemoi"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/5Time.cfg:125
+msgid ""
+"After finishing off the last defiant remnants, I led my army up into the "
+"mountains, towards the realm of Valemoi."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/5Time.cfg:128
+msgid ""
+"I was eager to quickly conquer Valemoi, but we found that Valemoi was having "
+"trouble of his own already."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:147
+msgid "I can smell bad blood near..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:151
+msgid "You do not appear to be in a good position to insult, Lord Valemoi."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:155
+msgid ""
+"Kromire, this had better not be your doing. Your recent conquest has swelled "
+"your head, but your youthful fancies pale before the power I have "
+"accumulated over the years."
+msgstr ""
+
+#. [message]: id=Wleader
+#: Kromire/scenarios/5Time.cfg:159
+msgid "We would never ally with your kind! The idea is despicable."
+msgstr ""
+
+#. [message]: id=Eleader
+#: Kromire/scenarios/5Time.cfg:163
+msgid "...d...i....e..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:167
+msgid ""
+"This is odd. Elementals do not form armies, nor do they hunt out vampires."
+msgstr ""
+
+#. [message]: id=Wleader2
+#: Kromire/scenarios/5Time.cfg:171
+msgid ""
+"In the past no, but elements are the unspoken guardians of the world. They "
+"are more attuned than most, and they felt the threat posed by those who "
+"would leech the life from all living creatures. They banded together to "
+"eliminate that threat and when we saw them on the march, we could not deny "
+"their noble cause. We came to support them, and cast down you lords of "
+"darkness!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:175
+msgid ""
+"Ha! You know nothing of our kind. Regardless of what he does to his serfs, "
+"Valemoi is not a threat to the world. We live alone in our castles, lording "
+"over our peasants and biding our time. We have no dreams of world conquest."
+msgstr ""
+
+#. [message]: id=Wleader2
+#: Kromire/scenarios/5Time.cfg:179
+msgid ""
+"Normally, no, but recently there has been much trouble stirring in your "
+"lands. We know that you have been displaced by the Celestials, and you may "
+"turn to Valemoi for aid. It is that unholy alliance that we are here to stop!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:183
+msgid ""
+"Then you are misinformed of our kind, worm. We do not make alliances so "
+"easily. Valemoi, I do not have to fight these creatures, I could merely head "
+"back the way I came. You cannot run, for doing so would lose you your lands "
+"and your serfs, the loss of which would mean ruin to you."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:187
+msgid "Get to the point."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:191
+msgid ""
+"In exchange for whatever help you can give me defeating the celestials, I "
+"will save you from your sure defeat."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:195
+msgid ""
+"Arrogant pup! I will show you your place some day, mark my words. But I "
+"cannot argue your truths. I do see my demise without your help. So be it. If "
+"we both survive this day, I will come to your side when you march on your "
+"keep."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/5Time.cfg:199
+msgid "I would not thrtht him master. Heth will seethk to bethray us."
+msgstr ""
+
+#. [objective]: condition=lose
+#: Kromire/scenarios/5Time.cfg:655
+msgid "Death of Valemoi"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:680
+msgid ""
+"His magic would have been an asset to our victory. No bother. We will win "
+"without him."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:707 Kromire/scenarios/5Time.cfg:811
+msgid ""
+"It seems as though the tide has turned. Kromire, prepare to suffer for your "
+"arrogance!"
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:907
+msgid "No!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:911
+msgid ""
+"His help may be useful in the future, but can I really trust someone who "
+"will so easily betray me. Is his proposed aid in my conquest worth letting "
+"him live?"
+msgstr ""
+
+#. [option]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:913
+msgid "No mercy"
+msgstr ""
+
+#. [option]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:922
+msgid "Let him live"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:933
+msgid "You should not have betrayed me."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:939
+msgid ""
+"I am not going to kill you just yet. There is still a battle to be won. "
+"Surrender your men to me, and let us drive out these intruders."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:943
+msgid "We surrender, and will only bear swords against your foes."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:963
+msgid ""
+"Pity that Valemoi could not have been more useful. His line is dead, his "
+"house ended. Harvest his serfs, I will turn some of them for the army, and "
+"the rest shall be for feeding. Gather your strength my children, we are "
+"heading back to Kromire Castle soon."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:969
+msgid ""
+"Valemoi, though you betrayed me, I have seen fit to give you a chance to "
+"live. Serve me or die."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:973
+msgid ""
+"My forces are decimated, my lands torn apart. If I follow you, there will be "
+"nothing left to come back to, as my enemies will return again. Surely I can "
+"offer you something, some favor, so that you may leave me be."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:977
+msgid ""
+"I do not know Valemoi, why don't you tell me? After all, you are the one "
+"with an interest in the result. I can as easily kill you now as take you "
+"with me."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:981
+msgid ""
+".... I could teach your blood mages how to use their powers to animate "
+"stone, I could also construct abominations that would serve well in your "
+"army."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/5Time.cfg:985
+msgid ""
+"Fine. In addition you must provide my men with nourishment, and lodging "
+"until we are ready to leave. I will spare your life for now, Valemoi, but do "
+"not forget that you live at my mercy."
+msgstr ""
+
+#. [message]: id=Vleader
+#: Kromire/scenarios/5Time.cfg:989
+msgid "So be it."
+msgstr ""
+
+#. [scenario]: id=CK_meetings
+#: Kromire/scenarios/6Meetings.cfg:6
+msgid "Hard Rock Pass"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Soldier, id=Dleader
+#: Kromire/scenarios/6Meetings.cfg:46
+msgid "Mocker"
+msgstr ""
+
+#. [side]: type=EOM_Devling_Soldier, id=Dleader2
+#: Kromire/scenarios/6Meetings.cfg:63
+msgid "Maker"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/6Meetings.cfg:71
+msgid ""
+"The battle did not end as I had hoped, but I made the most of it. I stayed a "
+"short time, just long enough to take as much from Valemoi's land as I "
+"needed. "
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/6Meetings.cfg:74
+msgid ""
+"The need for haste was upon me. The combined armies against Valemoi was an "
+"unexpected variable, and had slowed me down considerably. My time to meet up "
+"with the windsong was drawing closer, and so I set out with my army at a "
+"swift pace, heading towards Kromire Castle."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/6Meetings.cfg:77
+msgid ""
+"With all my attention focused on speed, I did not watch my surroundings as "
+"closely as I should have. As we reached the pass, we found our way blocked."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:102 Kromire/scenarios/6Meetings.cfg:152
+msgid "More devlings? They are thick on the ground this time of year."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/6Meetings.cfg:106 Kromire/scenarios/6Meetings.cfg:156
+msgid ""
+"Masther, when will we meeth the windsong? They did noth spethcify a "
+"lothcation. How will weth know wthere to go?"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:110
+msgid ""
+"I do not doubt the windsong's capability in delivering their message when "
+"the time is right. I know not where to meet them, but I have no fear that "
+"they will not find us. We must crush these fools first, and continue on our "
+"way."
+msgstr ""
+
+#. [unit]: type=EOM_Blood_Hulk, id=Grumbler
+#: Kromire/scenarios/6Meetings.cfg:118
+msgid "Grumbler"
+msgstr ""
+
+#. [unit]: type=EOM_Blood_Hulk, id=Healger
+#: Kromire/scenarios/6Meetings.cfg:130
+msgid "Healger"
+msgstr ""
+
+#. [unit]: type=EOM_Blood_Hulk, id=Ripper
+#: Kromire/scenarios/6Meetings.cfg:142
+msgid "Ripper"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:160
+msgid ""
+"I do not doubt the windsong's capability in delivering their message when "
+"the time is right. I know not where to meet them, but I have no fear that "
+"they will not find us. We must crush these fools first, and continue on our "
+"way. The constructs that Valemoi constructed will be perfect for this task."
+msgstr ""
+
+#. [message]: id=Ripper
+#: Kromire/scenarios/6Meetings.cfg:164
+msgid "Graw! Fresh Meat!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:188
+msgid "Someone is coming towards us quickly from the north. To arms!"
+msgstr ""
+
+#. [message]: id=Herra
+#: Kromire/scenarios/6Meetings.cfg:199
+msgid "Lisaundra the Oathkeeper sends you greetings, and a message."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:203
+msgid "Speak."
+msgstr ""
+
+#. [message]: id=Herra
+#: Kromire/scenarios/6Meetings.cfg:207
+msgid ""
+"She bids you to meet her where you first met, and to be prepared to attack "
+"the celestials. I have been assigned to guide you on your way back, until "
+"the Celestials are routed."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:211
+msgid ""
+"I accept your fealty, however temporary. Help us strike down these fools."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/6Meetings.cfg:218
+msgid ""
+"Excellent. Quickly my children, let us drive on! The castle is within our "
+"grasp."
+msgstr ""
+
+#. [scenario]: id=CK_Alliance
+#: Kromire/scenarios/7Alliance.cfg:6
+msgid "Alliance"
+msgstr ""
+
+#. [side]: type=EOM_Oathkeeper, id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:44 Kromire/scenarios/8Return.cfg:46
+msgid "Lisaundra"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/7Alliance.cfg:49
+msgid "I marched back to the crossing as quickly as I could."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/7Alliance.cfg:52
+msgid ""
+"During the trip we were attacked a couple times by rouge monsters and "
+"elementals, neither of which could harm us."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/7Alliance.cfg:55
+msgid ""
+"I did not like these indicators, it hinted at something coming that I could "
+"not see. I am sure it has something to do with this prophecy that the "
+"windsong are seeking. I intend to make sure that I get a glimpse of it "
+"before the windsong can take it away."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:75
+msgid "I have been waiting."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/7Alliance.cfg:79
+msgid "Forgive my truency, I was delayed on the road."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:83
+msgid ""
+"I was forced to leave the gatekeeper caste behind in my need to obtain the "
+"scroll quickly. There have been strange occurrences."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/7Alliance.cfg:87
+msgid ""
+"I too have beheld such occurances. Devlings rarely vist these moutains, and "
+"elementals don't usually manifest in armies."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:91
+msgid ""
+"I have not seen armies of elementals, but I have seen therians working along "
+"side walking dead."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/7Alliance.cfg:95
+msgid ""
+"There have been no necromancers for a very long time, that magic was lost, "
+"and for a good reason. I can't imagine any therian searching for it, or "
+"working beside its creations."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:99
+msgid ""
+"I saw it with my own eyes, and felt their bones under my fist. They were all "
+"maddened like warg with Raven Flu, and I could not get a clue from them, and "
+"I could not capture them for they would kill themselves. They are all dead "
+"now, and their remains burned."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/7Alliance.cfg:103
+msgid ""
+"I do not know how to take this news. Let us not dwell on the problem, but "
+"rather search for the answer if you are ready to march then I am too."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/7Alliance.cfg:107
+msgid "Then let us be off."
+msgstr ""
+
+#. [scenario]: id=CK_Return
+#: Kromire/scenarios/8Return.cfg:6
+msgid "Return to Kromire Castle"
+msgstr ""
+
+#. [side]: type=EOM_Great_Wizard, id=cleader
+#: Kromire/scenarios/8Return.cfg:58
+msgid "Pythagorus"
+msgstr ""
+
+#. [side]: type=EOM_Claimant, id=cleader2
+#: Kromire/scenarios/8Return.cfg:73
+msgid "Incarius"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/8Return.cfg:82
+msgid ""
+"Despite my desire for haste, we took the time to march around to attack the "
+"castle from the south. While it put us further from our objective, it let us "
+"fight over the hills and roads instead of trying to wade through snow."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/8Return.cfg:85
+msgid ""
+"At least, this was the reason I gave my troops and the Windsong. It was also "
+"the way that I fled when I had left."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:105
+msgid ""
+"Though I fled in shame, I return with strength to reclaim my own. It appears "
+"they have begun constructing a new castle of their own to replace the one "
+"where my father died."
+msgstr ""
+
+#. [message]: id=cleader
+#: Kromire/scenarios/8Return.cfg:109
+msgid ""
+"Incarius, there is an army advancing from the south. They are vampires in "
+"Kromire livery, and marching alongside Windsong warriors."
+msgstr ""
+
+#. [message]: id=cleader2
+#: Kromire/scenarios/8Return.cfg:113
+msgid ""
+"Quick, send word to the prophet, and bring him back. Tell him the vampire "
+"scourge has returned. We will try to hold them off."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/8Return.cfg:117
+msgid "Surrender the prophecy of Merrian to us."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:121
+msgid "And my castle."
+msgstr ""
+
+#. [message]: id=cleader
+#: Kromire/scenarios/8Return.cfg:125
+msgid ""
+"Your castle little blood lord? I believe I am standing in it, and that makes "
+"it mine, does it not? So no, I will not surrender my castle. Nor would I "
+"surrender anything in my possession to anyone who would ally with your kind. "
+"We are warriors of the light and do not fear the darkness you bring. As it "
+"is I do not even know where this 'prophecy' is, so I could not surrender it "
+"to you, now could I?"
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/8Return.cfg:129
+msgid ""
+"I do not care if you fear me or not. I will crush your body so that it no "
+"longer blocks my path."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:133
+msgid ""
+"You may stand in the castle now, but by the time the dark moon rises you "
+"will stand no longer."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/8Return.cfg:138 Kromire/scenarios/8Return.cfg:266
+msgid "Reclaim your lands"
+msgstr ""
+
+#. [message]: id=cleader
+#: Kromire/scenarios/8Return.cfg:157
+msgid ""
+"Uhw... You may have broken my body, but you shall not achieve your objective."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Kromire/scenarios/8Return.cfg:193
+msgid ""
+"As his strength flees his body, the wizard utters a final spell. Flames "
+"spring into life throughout the castle, burning even through stone, and "
+"within an hour the castle is a smoldering ruin."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/8Return.cfg:198
+msgid ""
+"Anyone who would stoop to burning writings deserves to die. This abomination "
+"shall not go unpunished."
+msgstr ""
+
+#. [message]: id=cleader2
+#: Kromire/scenarios/8Return.cfg:208
+msgid ""
+"Freemen of this land, do you remember the yoke your shoulders bore under the "
+"reign of the vampires? If we fall to these invaders then it will once again "
+"fall on you. Fight for your freedom."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:261
+msgid ""
+"Kill as few of those as is at all possible, their labor will help make us "
+"strong. I will not see my lands ruined like that of Valemoi. Once the "
+"celestials are defeated it will be a simple task to subject them to my will, "
+"but I will need them alive."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/8Return.cfg:270
+msgid "Kill as few peasants as possible(Bonus)"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:286
+msgid "I express my sympathies over the loss of the object of your quest."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/8Return.cfg:290
+msgid ""
+"The scrolls the prophesies are written are not so easily destroyed. I'll "
+"just have to sort through the wreckage until I find it."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:294
+msgid ""
+"I wish you luck in your endeavor. If it is anywhere, it will be in the deep "
+"catacombs near the south wall of the castle. (This is going to take her "
+"forever. The catacombs, although not large, were very deep. With all the "
+"supports gone, each crypt will have to be dug out separately, and she does "
+"not know which is the right one)."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/8Return.cfg:298
+msgid ""
+"(Though I would assume that nothing will stop her at this point.) Minion, "
+"assemble the remaining peasants. I will reassert my power over them, as well "
+"as provide fodder for the fledglings. Prepare a feast to celebrate, and "
+"bring some wine for the humans, I am going to need to replenish their "
+"numbers. None are to bite the humans until we are fully settled. Blood must "
+"be harvested from their cattle. Leave the Windsong to their task, they are "
+"not to be disturbed."
+msgstr ""
+
+#. [scenario]: id=CK_Prophecy
+#: Kromire/scenarios/9Prophecy.cfg:6
+msgid "Prophets Blood"
+msgstr ""
+
+#. [side]: type=EOM_Prophet, id=prophet
+#: Kromire/scenarios/9Prophecy.cfg:46
+msgid "Hezadin the Seer"
+msgstr ""
+
+#. [side]: type=EOM_Divine_Champion, id=cleader
+#: Kromire/scenarios/9Prophecy.cfg:60
+msgid "Marcus"
+msgstr ""
+
+#. [side]: type=EOM_Herald, id=cleader2
+#: Kromire/scenarios/9Prophecy.cfg:74
+msgid "Michle"
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/9Prophecy.cfg:91
+msgid ""
+"My control over the region was quickly asserted, and the peasants fell "
+"quickly, if unhappily, back under the yoke. Despite their misgivings, the "
+"festives were enjoyed by vampire and human alike. "
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/9Prophecy.cfg:94
+msgid ""
+"The windsong did not take part, but rather worked without stop on excavating "
+"the ruin. I had hatched several plans on how to aquire the prophesy after "
+"the windsong had found it, but I knew that I had time to implement any of "
+"them. My spies had informed me that the Windsong were making little headway, "
+"and it would be months yet before they found what they were seeking."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/9Prophecy.cfg:97
+msgid ""
+"The first month back in my lands was filled with battles. There were many "
+"minor skirmishes with devlings, elementals, and even a pack of warg that "
+"were infested with Rav Flu. These attacks did not dismay me, but only served "
+"to stoke my curiosity as to the nature of the prophecy that the Windsong "
+"were so desperately seeking. It would shed some light on the strange "
+"behavior occurring throughout the region."
+msgstr ""
+
+#. [part]
+#: Kromire/scenarios/9Prophecy.cfg:100
+msgid ""
+"Four days into the second month, my thin bloods reported white banners in "
+"the distance. I knew they were the banners of the Celestials, and at their "
+"head would be their latest champion, Hezadin the Seer."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/9Prophecy.cfg:120
+msgid ""
+"Mathter! The celethtials mean to thlay uth for good thith time. There are "
+"even more of them than there wath when they conquered uth the firth time!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:124
+msgid "There are so many... Summon Lisaundra."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/9Prophecy.cfg:128
+msgid "Here th'e comth."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/9Prophecy.cfg:145
+msgid "I still have not found it."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:149
+msgid "There are other matters that call our attention."
+msgstr ""
+
+#. [message]: id=prophet
+#: Kromire/scenarios/9Prophecy.cfg:153
+msgid ""
+"Lord Kromire, know that we will show no mercy, and that if you run, we will "
+"only hunt you down. For the blood of seers and prophets runs in my veins, "
+"and there is no place that you may hide from me. With the turmoil the world "
+"is going through, we cannot afford to have a menace such as yourself on the "
+"loose. This will be the final reckoning."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:157
+msgid ""
+"Blood of seers, you say, and prophets... Call your warriors out of that "
+"hole, Lisaundra. Let us cease this slow search and fight. I must drink that "
+"man's blood."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/9Prophecy.cfg:161
+msgid ""
+"No, Kromire, I will not help you. I do not hate celestials, and have no love "
+"for your kind. I am only here to accomplish my task, and then I will take my "
+"leave. The celestials will not harm me, for they are intent on killing you, "
+"and would not seek to offend the Windsong by drawing me into battle as well. "
+"Fight your little battle by yourself."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/scenarios/9Prophecy.cfg:169
+msgid "I would like to drink her blood..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:173
+msgid ""
+"It does not matter, once the blood of that prophet runs in my veins, we will "
+"not need her. As much as I would like to punish her for her insolence, we "
+"must let her be. As she said, now is not a good time to make enemies with "
+"the Windsong."
+msgstr ""
+
+#. [objective]: condition=win
+#: Kromire/scenarios/9Prophecy.cfg:178
+msgid "Kromire must hit Hazadin with his fangs."
+msgstr ""
+
+#. [message]: id=Valemoi
+#: Kromire/scenarios/9Prophecy.cfg:208
+msgid ""
+"Kromire, you were a fool to let me live. I have come to punish you for your "
+"arrogance, pup. This time I will slay you."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:212
+msgid "Don't you have better things to be doing?"
+msgstr ""
+
+#. [message]: id=Valemoi
+#: Kromire/scenarios/9Prophecy.cfg:216
+msgid ""
+"NO! You left me broken and weak, and it took all I had to control my humans. "
+"They rose up against me and drove me out, despite my power. I have nothing "
+"left, and before I die, I will avenge myself!"
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:220
+msgid ""
+"Old fool. You are weak, and cannot truly think to kill me. Your desire for "
+"vengeance is applaudable, but know that you do not stand a chance. I relish "
+"the opportunity to slay you, as I should have done from the beginning."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:246
+msgid ".... This is different..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:250
+msgid "Such vision and insight, it burns in my veins more than magic..."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:254
+msgid ""
+"Aha! Mwah-ha-ha! Come, Lisaundra, cease your silly search. I can tell you "
+"the prophecy, it hangs in the air so heavy that I am surprised I could not "
+"feel it before! Summon your scribe to witness and record the prophecy of "
+"Mirrian the Ascendant."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/9Prophecy.cfg:270
+msgid ""
+"I know not what you have wrought with this dark deed. This seems like "
+"foolishness."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:274
+msgid ""
+"Write these words down, it is not foolishness. This man's blood burned with "
+"power, and all it took was my focus on the prophecy to draw it to the fore. "
+"I can relate every line to you, or, if you doubt me, I can point you to "
+"where the prophecy lies in the rubble."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/9Prophecy.cfg:278
+msgid "You do not lie... Esper, come quick. Write this down."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:293
+msgid ""
+"(Speaking as from a deep well) Behold, once the phoenix has flown, the Age "
+"of the Unicorn is over. It is now the Age of the Dragon."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:297
+msgid ""
+"The events of the Age of the Dragon in order categorical are the War of the "
+"Dragon, the Invasion from the Outlands, the Plague of the Dragon, and the "
+"Empire of the Dragon. The age of the dragon ends when the north star turns "
+"red."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:301
+msgid ""
+"The war of the dragon, will be the war between the Dark Dragon Kzardizin the "
+"Immortal, and the inhabitants of the world. In the end either the dragon and "
+"his minions will reign for the next two centuries, or the dragon will be "
+"forced underground by three champions, one from the west, one from the "
+"north, and one from the east."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:305
+msgid ""
+"The invasion from the outland will constitute of the rediscovery of the "
+"gates to other worlds, and the interactions between the worlds. In the end "
+"either the gates will be forbidden and lost, or they will be held open, but "
+"guarded."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:309
+msgid ""
+"The plague of the dragon will be a vile illness that shall send the world "
+"into chaos. In the end either four out of five of all animals and plants "
+"will die, or an expedition into the Outland for the cure will be successful "
+"and the afore stated ratio will be the number of survivors."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:313
+msgid ""
+"The Empire of the Dragon will be a new order forged out of the results of "
+"the plague, and it will last several centuries. In the end it will either "
+"fall to corruption caused by the renewal of necromancy, or it will be remade "
+"from scratch, and renewed to face the next era, the Age of the Phoenix."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:317
+msgid ""
+"(Back to his ordinary voice) Know that this means that Kzardizin has "
+"awakened, and that he will try to dominate the world. Return to the Great "
+"Foundation, and tell your arbiters, ascendants, and librarians. Let them "
+"know and prepare for the upcoming war. Kzardizin always had the loyalty of "
+"devlings by promising them the chance to torment,   and the loyalty of many "
+"vampires, by promising them blood. The many warriors of the dead were his "
+"for he was a skilled necromancer, and also many warriors of the children of "
+"his blood. Prepare your kind for this war,  as I shall seek to prepare mine. "
+"I am the only vampire lord left in the northern part of these mountains, and "
+"I will never submit to the rule of the Dark Dragon."
+msgstr ""
+
+#. [message]: id=Lisaundra
+#: Kromire/scenarios/9Prophecy.cfg:321
+msgid ""
+"Nor will my people. This new age has much promise, but we must see that each "
+"event has the proper ending."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/scenarios/9Prophecy.cfg:325
+msgid ""
+"I intend to live to the end. Through war and turmoil, through plague and "
+"corruption, I will remain Count Kromire, Lord of the North Corian Mountains."
+msgstr ""
+
+#. [trait]: id=legend
+#: Kromire/utils/traits.cfg:6
+msgid "legendary"
+msgstr ""
+
+#. [trait]: id=legend
+#: Kromire/utils/traits.cfg:7
+msgid "female^legendary"
+msgstr ""
+
+#. [trait]: id=legend
+#: Kromire/utils/traits.cfg:8
+msgid ""
+"Some people are simply incredible. They seem to have an edge in every area "
+"over others. Such units benefit from all standard traits."
+msgstr ""
+
+#. [message]: id=Kromire
+#: Kromire/utils/utils.cfg:88
+msgid "My line ends..."
+msgstr ""
+
+#. [message]: id=Igor
+#: Kromire/utils/utils.cfg:101
+msgid "Uh!...."
+msgstr ""
