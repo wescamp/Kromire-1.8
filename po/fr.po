@@ -2,10 +2,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-11-17 22:04+0100\n"
-"PO-Revision-Date: 2009-11-17 22:04+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2012-02-20 14:11-0500\n"
+"PO-Revision-Date: 2011-04-26 21:33+0100\n"
+"Last-Translator: Vincent Calame <vic@upupa.eu>\n"
 "Language-Team: none\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -13,36 +14,43 @@ msgstr ""
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:14
+#, fuzzy
 msgid "Count Kromire"
-msgstr ""
+msgstr "Le comte Kromire"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:19
+#, fuzzy
 msgid "Lord"
-msgstr ""
+msgstr "Seigneur"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:19
+#, fuzzy
 msgid "(easiest)"
-msgstr ""
+msgstr "(facile)"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:20
+#, fuzzy
 msgid "Sire"
-msgstr ""
+msgstr "Prince"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:21
+#, fuzzy
 msgid "(hardest)"
-msgstr ""
+msgstr "(difficile)"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:21
+#, fuzzy
 msgid "Conquerer"
-msgstr ""
+msgstr "Conquérant"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:22
+#, fuzzy
 msgid ""
 "You are the blood son of a vampire lord, however when the might of the "
 "celestial crusades comes knocking, and your father is slain, you flee your "
@@ -50,48 +58,61 @@ msgid ""
 "Kromires, to avenge your father, and most importantly, to make sure that no "
 "celestial ever dares come into your mountains again."
 msgstr ""
+"Fils de sang d'un seigneur vampire, vous avez fui le château ancestral de "
+"votre clan à la mort de votre père, tombé sous les coups des croisés "
+"célestains. Depuis, vous préparez votre retour afin que la terre des Kromine "
+"revienne aux Kromine, que votre père soit vengé et, surtout, afin que plus "
+"jamais un seul Célestain n'approche à nouveau de vos chères montagnes."
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:24
+#, fuzzy
 msgid "Version:"
-msgstr ""
+msgstr "Version :"
 
 #. [campaign]: id=Count_Kromire
 #: Kromire/_main.cfg:25
+#, fuzzy
 msgid "(requires the Era of Myths Epsilon 6 or later)"
-msgstr ""
+msgstr "(nécessite l'Ère Mythique Epsilon 6 ou supérieure)"
 
 #. [scenario]: id=Therian_Village
 #: Kromire/scenarios/1Therian_Village.cfg:10
+#, fuzzy
 msgid "The Therian Village"
-msgstr ""
+msgstr "Le village thérion"
 
 #. [side]: type=EOM_Noble, id=Kromire
-#: Kromire/scenarios/3Michbie.cfg:31 Kromire/scenarios/2Devilings.cfg:31
-#: Kromire/scenarios/4Counterattack.cfg:31 Kromire/scenarios/7Alliance.cfg:29
-#: Kromire/scenarios/1Therian_Village.cfg:43 Kromire/scenarios/5Time.cfg:32
-#: Kromire/scenarios/6Meetings.cfg:32 Kromire/scenarios/8Return.cfg:31
-#: Kromire/scenarios/9Prophecy.cfg:31
+#: Kromire/scenarios/7Alliance.cfg:29 Kromire/scenarios/2Devilings.cfg:31
+#: Kromire/scenarios/6Meetings.cfg:32 Kromire/scenarios/4Counterattack.cfg:31
+#: Kromire/scenarios/9Prophecy.cfg:31 Kromire/scenarios/8Return.cfg:31
+#: Kromire/scenarios/3Michbie.cfg:31 Kromire/scenarios/1Therian_Village.cfg:43
+#: Kromire/scenarios/5Time.cfg:32
+#, fuzzy
 msgid "Kromire"
-msgstr ""
+msgstr "Kromire"
 
 #. [unit]: type=EOM_Blood_Manipulator, id=Igor
 #: Kromire/scenarios/1Therian_Village.cfg:53
+#, fuzzy
 msgid "Igor"
-msgstr ""
+msgstr "Igor"
 
 #. [side]: type=EOM_Therian_Shaman, id=shaman
 #: Kromire/scenarios/1Therian_Village.cfg:72
+#, fuzzy
 msgid "shaman"
-msgstr ""
+msgstr "chaman"
 
 #. [side]: type=EOM_Claimant, id=cleader
 #: Kromire/scenarios/1Therian_Village.cfg:155
+#, fuzzy
 msgid "Celestial Leader"
-msgstr ""
+msgstr "Chef céleste"
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:168
+#, fuzzy
 msgid ""
 "Count Kromire: For centuries, the Kromires had ruled as vampire lords in the "
 "mountains to the east of the Bale Plains, which is  where the Celestials "
@@ -101,9 +122,21 @@ msgid ""
 "was to be launched soon, and that, failing in the west, they would now push "
 "to the east. Towards us."
 msgstr ""
+"Voici l'histoire telle que la racontait le comte Kromire : « Nous, les "
+"Kromire, étions une des familles de seigneurs vampires établies depuis des "
+"siècles dans les montagnes sises à l'est des plaines de Bale, la terre des "
+"Célestains. Une dizaine d'années auparavant, ces derniers avaient lancé une "
+"croisade contre les clans vampires situés sur leur flanc ouest et avaient "
+"échoués dans leur entreprise. Instruits malgré eux de la puissance de leur "
+"ennemi, les Célestains avaient consacré la décennie suivante à reconstituer "
+"leurs forces et à fourbir leurs armes. Nous savions que d'ici peu l'appel à "
+"la guerre sainte allait de nouveau retentir. Et nous savions que cette "
+"nouvelle croisade, après l'échec de l'offensive vers l'ouest, allait se "
+"tourner vers l'est. C'est à dire contre nous."
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:171
+#, fuzzy
 msgid ""
 "And so they came. Hordes of men in white armor bearing spears and swords "
 "imbued with strange enchantments, and led by those with wings and spirits "
@@ -112,9 +145,17 @@ msgid ""
 "posturing Celestials, but this time their forces were too great. Some "
 "attributed this to the new Count Kromire."
 msgstr ""
+"Et ils vinrent. C'était une soldatesque plastronnée de blanc, armée de "
+"piques et d'épées chargées d'enchantements mystérieux, conduite par ces "
+"sortes d'ailés et ces esprits auréolés de lumière sacrée. Ils étaient "
+"innombrables et même nos ténèbres les plus sombres ne pouvaient altérer leur "
+"puissance. Si nous avions repoussés sans peine ces Célestains présomptueux "
+"par le passé,  nous faisions face à cette heure à des forces autrement plus "
+"imposantes. Une partie de ces forces marcha droit sur le château des Kromire."
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:174
+#, fuzzy
 msgid ""
 "The new count had an exceedingly eccentric manner, and so had chosen me as "
 "his heir. I was not the strongest or the smartest of his offspring, but I "
@@ -123,9 +164,16 @@ msgid ""
 "suicide, I was bound to him by blood, and that is the little our kind holds "
 "sacred."
 msgstr ""
+"Je devais au caractère extrêmement fantasque du comte d'alors d'être devenu "
+"son héritier. Je n'étais ni le plus fort ni le plus intelligent mais le plus "
+"rusé de ses rejetons.  Et puisque j'étais son héritier, j'étais aussi son "
+"premier lieutenant ; je devais à ce titre tenir les remparts. Je savais que "
+"cela me menait à une mort certaine mais j'étais lié à lui par le sang et "
+"c'est bien la seule chose que notre race tient pour sacrée."
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:177
+#, fuzzy
 msgid ""
 "Our forces were helplessly outnumbered, but I fought on because to lose "
 "meant certain doom. I held the Celestials off as long as I could, but we "
@@ -133,9 +181,16 @@ msgid ""
 "fighting to keep them out, I suddenly felt a snap in my chest and knew that "
 "my father, the lord of darkness, was now dead."
 msgstr ""
+"Notre infériorité numérique ne nous laissait aucune chance mais je luttais "
+"car il n'y avait nulle merci à attendre de nos ennemis. Je contins les "
+"Célestains aussi longtemps que je pus mais nous fûmes chassés des remparts "
+"et repoussés dans le donjon. Alors que nous jetions nos dernières forces "
+"dans la bataille, je sentis soudain une cassure dans ma poitrine : je sus "
+"alors que mon père, le prince des ténèbres, n'était plus. "
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:180
+#, fuzzy
 msgid ""
 "Recognizing my plight, my father's valet appeared at my shoulder, and led me "
 "into the catacombs to escape into the woods. He swore loyalty to me as "
@@ -143,262 +198,364 @@ msgid ""
 "the Therian village at the base of the mountains, knowing that we could "
 "start the clan anew."
 msgstr ""
+"Voyant la situation critique dans laquelle je me trouvais, le valet de mon "
+"père se faufila derrière moi et, me prenant par l'épaule, m'entraina dans "
+"les catacombes par lesquelles nous débouchèrent dans les bois. Il me jura "
+"fidélité, à moi, le successeur de la lignée et j'acceptai son allégeance. "
+"Nous dirigeâmes alors nos pas vers le village thérion situé au pied des "
+"montagnes car nous devions reformer notre clan."
 
 #. [part]
 #: Kromire/scenarios/1Therian_Village.cfg:183
+#, fuzzy
 msgid ""
 "Though neither of us said it, we both knew that we'd return to reclaim our "
 "lands, to avenge my foolish father, and to send the celestials back to their "
 "plains. They had come to view the vampires as pests to be eradicated, but we "
 "would make them fear us as hunters to be avoided."
 msgstr ""
+"Nul d'entre nous deux n'en dit mot mais nous savions que le devoir nous "
+"commandait de reprendre notre terre, de venger mon téméraire de père et de "
+"renvoyer les Célestains dans leurs plaines. Ils étaient venus car nous "
+"n'étions à leurs yeux qu'une vermine à éradiquer.  Ils quitteraient la place "
+"terrifiés  car, de proie, nous allions devenir chasseurs. »"
 
 #. [objective]: condition=win
 #: Kromire/scenarios/1Therian_Village.cfg:196
+#, fuzzy
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Vaincre le chef ennemi"
 
 #. [objective]: condition=lose
-#: Kromire/scenarios/3Michbie.cfg:149 Kromire/scenarios/2Devilings.cfg:306
+#: Kromire/scenarios/2Devilings.cfg:306 Kromire/scenarios/6Meetings.cfg:179
 #: Kromire/scenarios/4Counterattack.cfg:136
+#: Kromire/scenarios/9Prophecy.cfg:182 Kromire/scenarios/8Return.cfg:142
+#: Kromire/scenarios/8Return.cfg:274 Kromire/scenarios/3Michbie.cfg:149
 #: Kromire/scenarios/1Therian_Village.cfg:200
 #: Kromire/scenarios/1Therian_Village.cfg:331
 #: Kromire/scenarios/1Therian_Village.cfg:509 Kromire/scenarios/5Time.cfg:651
-#: Kromire/scenarios/6Meetings.cfg:179 Kromire/scenarios/8Return.cfg:142
-#: Kromire/scenarios/8Return.cfg:274 Kromire/scenarios/9Prophecy.cfg:182
+#, fuzzy
 msgid "Death of Kromire"
-msgstr ""
+msgstr "Mort de Kromire"
 
 #. [message]: id=Igor
 #: Kromire/scenarios/1Therian_Village.cfg:209
+#, fuzzy
 msgid "Look master the village ith nearby."
-msgstr ""
+msgstr "Gnn, voyez, Maîîître. Gne village gn'est proche."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:213
+#, fuzzy
 msgid ""
 "Hurry slave, we need to slay their leader without alerting their guard. If "
 "we can take the keep, we can turn the peasants to our side. Do not alert "
 "them prematurely. If you must fight, kill them before they can so much as "
 "squeak."
 msgstr ""
+"En avant, serviteur ! Nous devons abattre leur chef sans alerter la garde. "
+"Lorsque nous tiendrons le donjon, nous pourrons retourner les paysans de "
+"notre côté. Ne déclenche pas l'alarme top tôt et si tu dois en combattre, "
+"tue-les avant qu'ils n'émettent un seul murmure."
 
 #. [message]: speaker=second_unit
 #: Kromire/scenarios/1Therian_Village.cfg:226
+#, fuzzy
 msgid ""
 "You! Foul creature, what are you doing here? Do you not know that the "
 "celestials are coming? They will hew all your kind to the ground!"
 msgstr ""
+"Vous êtes fous de trainer par ici ! Vous ne savez pas que les Célestains "
+"arrivent ? Ils vont vous réduire en poussière tout autant que vous êtes."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:230
+#, fuzzy
 msgid ""
 "Oh, no worries... friend. We intend to be prepared for them, and your "
 "village is a part of the preparation. You should feel duly honored."
 msgstr ""
+"Oh, ne crains rien, l'ami. Nous avons bien l'intention de les affronter et "
+"ton village fait partie de nos plans. Tu devrais te sentir honoré."
 
 #. [message]: speaker=unit
 #: Kromire/scenarios/1Therian_Village.cfg:243
+#, fuzzy
 msgid "We are being raided by vampires! Call the militia, we'll hold them off."
-msgstr ""
+msgstr "On est attaqué par des vampires ! Appellez la milice, on les retiens…"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:247
+#, fuzzy
 msgid "Fool."
-msgstr ""
+msgstr "Pauvre fou."
 
 #. [message]: id=Woodsman
 #: Kromire/scenarios/1Therian_Village.cfg:269
+#, fuzzy
 msgid "Who are you? Get out of my house!"
-msgstr ""
+msgstr "Hé ! Vous êtes qui, vous ? Fichez le camp de chez moi  ! "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:273
+#, fuzzy
 msgid "Kill him, quickly now! Before he can set of the alarm!"
-msgstr ""
+msgstr "Tue-le, et vite ! Avant qu'il ne donne l'alarme !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:286
 #: Kromire/scenarios/1Therian_Village.cfg:464
+#, fuzzy
 msgid "Quickly grab whatever villagers you can before they all flee."
 msgstr ""
+"Dépêche-toi de capturer tous les villageois que tu peux avant qu'ils n'aient "
+"le temps de s'échapper !"
 
 #. [message]: speaker=narrator
 #: Kromire/scenarios/1Therian_Village.cfg:290
 #: Kromire/scenarios/1Therian_Village.cfg:468
+#, fuzzy
 msgid "A day later..."
-msgstr ""
+msgstr "Le jour d'après…"
 
 #. [message]: id=Igor
 #: Kromire/scenarios/1Therian_Village.cfg:300
 #: Kromire/scenarios/1Therian_Village.cfg:478
+#, fuzzy
 msgid "Thith ith all master. The retht, 'ave gotten away."
-msgstr ""
+msgstr "Gn'est tout, Maîîître. Les gn'autres gn'ont fui."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:304
 #: Kromire/scenarios/1Therian_Village.cfg:482
+#, fuzzy
 msgid ""
 "I'm only about half way through turning them. One more day, and then we will "
 "be ready to travel."
 msgstr ""
+"Il me reste la moité du chemin à faire pour les retourner complètement. "
+"Encore un jour et ils seront prêts pour la route."
 
 #. [message]: speaker=narrator
 #: Kromire/scenarios/1Therian_Village.cfg:308
 #: Kromire/scenarios/1Therian_Village.cfg:486
+#, fuzzy
 msgid "The next day dawns..."
-msgstr ""
+msgstr "À l'aube du jour suivant…"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:313
+#, fuzzy
 msgid "Now that they are all mine it is time to -wait..."
-msgstr ""
+msgstr "Maintenant, ils m'appartiennent tous. Il est temps de.. Un instant !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:317
 #: Kromire/scenarios/1Therian_Village.cfg:495
+#, fuzzy
 msgid ""
 "I can smell celestial blood... it is coming closer. There is not much of it, "
 "though, we shall stand and fight. Our new clan members are still new to the "
 "blood, but we will lead them to victory over these arrogant warriors of "
 "light."
 msgstr ""
+"Je sens du sang de Célestains… Il se rapproche. Il est en petit nombre aussi "
+"pouvons nous rester ici pour le combattre.  Les nouveaux membres de notre "
+"clan sont encore jeunes dans le sang mais nous allons les conduire à la "
+"victoire contre ces arrogants guerriers de la lumière."
 
 #. [objective]: condition=win
 #: Kromire/scenarios/1Therian_Village.cfg:327
+#, fuzzy
 msgid "Defeat the celestial army"
-msgstr ""
+msgstr "Vaincre l'armée célestaine"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:491
+#, fuzzy
 msgid "Now that they're all mine it's time to - wait..."
-msgstr ""
+msgstr "Maintenant, ils m'appartiennent tous. Il est temps de… Un instant !"
 
 #. [objective]: condition=win
 #: Kromire/scenarios/1Therian_Village.cfg:505
+#, fuzzy
 msgid "Defeat the celestial forces"
-msgstr ""
+msgstr "Vaincre l'armée célestaine"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/1Therian_Village.cfg:637
+#, fuzzy
 msgid ""
 "Let us be off, that was only a scouting party. The main army is more than "
 "our forces can handle... yet."
 msgstr ""
+"Levons le camp, ce n'était qu'une avant-garde. Nous ne sommes pas de taille "
+"à affronter le gros de l'armée… pour le moment."
 
 #. [scenario]: id=CK_Devilings
 #: Kromire/scenarios/2Devilings.cfg:6
+#, fuzzy
 msgid "Devilings"
-msgstr ""
+msgstr "Diablotins"
 
 #. [side]: type=EOM_Lurker, id=d1
 #: Kromire/scenarios/2Devilings.cfg:45
+#, fuzzy
 msgid "Guile"
-msgstr ""
+msgstr "Fourbe"
 
 #. [side]: type=EOM_Devling_Soldier, id=d2
 #: Kromire/scenarios/2Devilings.cfg:121
+#, fuzzy
 msgid "Bulge"
-msgstr ""
+msgstr "Boursouflé"
 
 #. [part]
 #: Kromire/scenarios/2Devilings.cfg:151
+#, fuzzy
 msgid ""
 "We quickly gathered our new clan members, but I cringed inwardly at our "
 "numbers. My ardor to regain the castle was burning strongly, but I had too "
 "few men."
 msgstr ""
+"« Nous rassemblâmes rapidement les nouveaux membres de notre clan et une "
+"ombre passa sur mon visage lorsque je les comptai. Je brûlais toujours de la "
+"volonté farouche de reprendre le château de mes pères mais nous étions bien "
+"trop peu."
 
 #. [part]
 #: Kromire/scenarios/2Devilings.cfg:154
+#, fuzzy
 msgid ""
 "I was not naive, nor given to heroic fits. I would not charge the castle in "
 "some valiant effort to oust the Celestials. I would need more men, more new "
 "blood."
 msgstr ""
+"Je n'étais pas naïf et peu porté vers les actions héroïques. Je ne comptais "
+"pas monter à l'assaut du château pour en chasser les Céléstains avec ma "
+"témérité comme seul compagne. J'avais besoin de plus de troupes, de sang "
+"frais."
 
 #. [part]
 #: Kromire/scenarios/2Devilings.cfg:157
+#, fuzzy
 msgid ""
 "The largest hurdle in my path was that there were no more easy targets. That "
 "village was one of the few in the area not belonging to the vampires, as the "
 "monks of Theria had claimed it, and I had already drained it. I decided to "
 "head south."
 msgstr ""
+"Le principal obstacle sur ma route, c'était qu'il ne restait plus aucune "
+"proie facile. Ce village était un des rares aux alentours qui "
+"n'appartenaient pas à un clan vampire. Il était la possession des moines "
+"thérions et je venais de le vider de ses forces vives. Je décidai de marcher "
+"vers le sud."
 
 #. [part]
 #: Kromire/scenarios/2Devilings.cfg:160
+#, fuzzy
 msgid ""
 "Two days out from the village, I found an opportunity for blood... and for "
 "an alliance."
 msgstr ""
+"Deux jours après notre départ du village, je tombais sur une odeur de sang… "
+"et une offre d'alliance. »"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:194
+#, fuzzy
 msgid ""
 "Is that a windsong warrior? They are uncommon around here, I wonder what her "
 "purpose is around here."
 msgstr ""
+"N'est-ce pas une guerrière de la Sapience ? Il est rare d'en voir dans cette "
+"région, je me demande ce qui a pu la pousser à venir jusqu'ici. "
 
 #. [message]: id=Igor
 #: Kromire/scenarios/2Devilings.cfg:198
+#, fuzzy
 msgid "Master there are devlings all around. They assail her, even now."
-msgstr ""
+msgstr "Maîîître, il gn'y a des diablottins partout. Même qu'ils l'attaquent."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:202
+#, fuzzy
 msgid ""
 "The devlings assail her, perhaps then we can make something of this "
 "situation."
 msgstr ""
+"Les diablotins l'assaillent de toute part. Peut-être pouvons-nous tirer "
+"profit de cette situation."
 
 #. [message]: speaker=narrator
 #: Kromire/scenarios/2Devilings.cfg:206
+#, fuzzy
 msgid "Suddenly an image of the warrior appears before you."
-msgstr ""
+msgstr "Soudain, la silhouette de la guerrière apparait devant vous."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:221
+#, fuzzy
 msgid ""
 "Dare not bring battle to me, or I'll rend you apart even as these devilings."
 msgstr ""
+"Ne me cherchez pas querelle ou vous subirez le même sort que ces diablotins !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:225
+#, fuzzy
 msgid ""
 "I bear you no malice, nor thirst for your blood. I merely desire to "
 "understand your motive."
 msgstr ""
+"Je ne vous veux aucun mal et encore moins votre sang. Je désire simplement "
+"savoir les raisons de votre présence ici."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:229
+#, fuzzy
 msgid ""
 "Don't lie to me, your kind thirst for everyones blood. What is my motive to "
 "you: leverage?"
 msgstr ""
+"Inutile de me mentir, ceux de votre race n'aspirent qu'à sucer le sang de "
+"tous ceux qu'ils rencontrent. Que cherchez-vous exactement ?"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:233
+#, fuzzy
 msgid ""
 "Let us say that I find it very odd to find a windsong warrior battling a "
 "horde of devilings, when neither should be here at all. A part of me wonders "
 "if I ought to be doing something about it."
 msgstr ""
+"Disons que je trouve particulièrement étrange de rencontrer en un tel "
+"endroit une guerrière de la Sapience en train d'affronter une meute de "
+"diablotins qui, soit dit en passant, n'ont pas plus de raison que vous "
+"d'être ici. Une part de moi-même s'interroge sur ce qu'il y a lieu de faire."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:237
+#, fuzzy
 msgid ""
 "The devilings are not my cause of being here, merely an nuisance that keeps "
 "me from my quest. I know not why they are here."
 msgstr ""
+"Les diablotins ne sont pas la raison de ma présence en ces lieux, ils ne "
+"sont qu'un désagrément qui m'éloigne de l'objet de ma quête. J'ignore "
+"pourquoi ils sont ici. "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:241
+#, fuzzy
 msgid "I have not known the windsong to embark on quests."
 msgstr ""
+"Je n'ai jamais entendu dire que les Sœurs de la Sapience s'engageaient dans "
+"des quêtes."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:245
+#, fuzzy
 msgid ""
 "Your kind's memories may be longer than most, but not nearly as long as our "
 "librarie's. On the occaision where a landmark manifests in time, as recorded "
@@ -406,432 +563,621 @@ msgid ""
 "these occasions, the pheonix has flown, and it is time to recover the "
 "prophecy of Merrian the Ascendant."
 msgstr ""
+"Votre race peut avoir la mémoire longue mais elle ne remontera jamais aussi "
+"loin que celle de notre bibliothèque. Lorsqu'un signe se manifeste en un "
+"lieu et un temps donnés, tels que l'a consigné l'archiviste Azzura, il nous "
+"faut entreprendre une quête. La mienne est née d'un tel signe : le phénix a "
+"chu, le temps est venu de retrouver le prophétie de Merrian l'ancêtre."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:249
+#, fuzzy
 msgid "You seek that prophecy? I know where it is."
-msgstr ""
+msgstr "Vous cherchez cette prophétie ? Je sais où elle est."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:253
+#, fuzzy
 msgid ""
 "Then speak of its resting place, and know that I will detect if you lie, and "
 "crush you like a bug if you do."
 msgstr ""
+"Alors dites-moi où elle demeure ! Si vous mentez, je m'en apercevrais bien  "
+"et je vous écraserais alors comme un insecte."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:257
+#, fuzzy
 msgid ""
 "There is no need for threats, it is only a dusty old book to me. It is in "
 "the catacomb vaults of Kromire Castle."
 msgstr ""
+"Inutile de me menacer, ce n'est pour moi qu'un vieux livre poussièreux. Il "
+"se trouve dans un caveau des catacombes du château des Kromire."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:261
+#, fuzzy
 msgid ""
 "... I can tell that you do not lie ... but that is an odd place for it to "
 "be. No matter, the Kromires have always been very weak, and their count is a "
 "fool."
 msgstr ""
+"…  Je sais que vous ne mentez pas .… Ce n'est pas le meilleur endroit que "
+"l'on puisse imaginer. Qu'importe ! Le clan des Kromire n'a jamais été très "
+"puissant et leur comte est un fou."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:265
+#, fuzzy
 msgid ""
 "Perhaps, but I am the new Count Kromire. My lands have been overrun by the "
 "celestials, and I think that you would have a hard time convincing them to "
 "let you root around in my castle."
 msgstr ""
+"C'était peut-être le cas il y a peu mais je suis le nouveau comte Kromire. "
+"Mes terres ont été envahies par les Célestains et je pense que vous aurez du "
+"mal à les convaincre de vous autoriser à fouiner autour de mon château."
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:269
+#, fuzzy
 msgid ""
 "I will not let myself be stopped by the celestial hordes. I am bound by oath "
 "to acquire the scroll on which the prophecy is held."
 msgstr ""
+"Ce n'est pas la soldatesque célestaine qui m'arrêtera. J'ai juré par serment "
+"de prendre possession du parchemin sur lequel est écrit la prophétie."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:273
+#, fuzzy
 msgid ""
 "I will help you on this venture, I have no love for the celestials, and "
 "would dearly like to have my lands back, and I know that although the might "
 "of the windsong is great, that you will need all the help you can get."
 msgstr ""
+"Je suis prêt à vous aider dans cette entreprise, je hais les Célestains et "
+"j'aspire ardemment quant à moi à reprendre possession de mes terres. Je sais "
+"que les pouvoirs des Filles du Vent sont grands mais je ne doute pas que "
+"tout aide vous serait la bienvenue. "
 
 #. [message]: id=projection
 #: Kromire/scenarios/2Devilings.cfg:277
+#, fuzzy
 msgid ""
 "Then help me defeat these foolish devilings, I'll come back with an army of "
 "the windsong in a couple months, and mayhaps that between the two of us we "
 "could bring down the celestial armies. You have the word of Lisaundra, of "
 "the Oathkeeper caste."
 msgstr ""
+"Alors aidez-moi à vaincre ces stupides diablotins et je reviendrai dans deux "
+"mois avec une armée de Filles du Vent. À nous deux, si le sort nous est "
+"favorable, nous parviendrons à repousser les troupes célestaines. Vous avez "
+"la parole de Lisaundra de la caste des Gardiennes des Serments. "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:281
+#, fuzzy
 msgid "I swear by my word as a Kromire, thus will be done."
-msgstr ""
+msgstr "Je jure au nom des Kromire que cela sera fait."
 
 #. [message]: speaker=narrator
 #: Kromire/scenarios/2Devilings.cfg:288
+#, fuzzy
 msgid "The phantom fades."
-msgstr ""
+msgstr "L'illusion disparait."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:293
+#, fuzzy
 msgid ""
 "It is odd to meet one of the windsong so arrogant, and reckless. She is "
 "completely surrounded, and yet she threatens us."
 msgstr ""
+"Quel échange singulier ! Et quelle arrogance, quelle témérité de la part de "
+"cette Sœur de la Sapience ! Elle est complètement encerclée et elle nous "
+"menace !"
 
 #. [message]: id=Igor
 #: Kromire/scenarios/2Devilings.cfg:297
+#, fuzzy
 msgid "Mayhap, she hath a reason to be so."
-msgstr ""
+msgstr "Peut-gn'être qu'elle a ses raisons."
 
 #. [objective]: condition=win
 #: Kromire/scenarios/2Devilings.cfg:302
+#, fuzzy
 msgid "Destroy the Devilings"
-msgstr ""
+msgstr "Détruire les diablotins"
 
 #. [objective]: condition=lose
 #: Kromire/scenarios/2Devilings.cfg:310
+#, fuzzy
 msgid "Death of Lisaundra"
-msgstr ""
+msgstr "Mort de Lisandra"
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/2Devilings.cfg:322
+#, fuzzy
 msgid "..."
-msgstr ""
+msgstr "…"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:326
+#, fuzzy
 msgid "With her dead, we've lost our chances of an alliance with the windsong."
 msgstr ""
+"Sa mort nous retire toute chance de nous allier avec les Sœurs de la "
+"Sapience !"
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/2Devilings.cfg:336
+#, fuzzy
 msgid ""
 "Now I will leave. Expect me back when the bright moon is full, and the dark "
 "moon is new."
 msgstr ""
+"Il est temps pour moi de partir. Comme nous l'avons convenu, Je serai de "
+"retour à la nouvelle lune qui suivra la prochaine pleine lune."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:344
+#, fuzzy
 msgid ""
 "Excellent. The plans have been set, and if I can raise an army of my own, "
 "the castle will be mine again soon. I will need more minions to serve me."
 msgstr ""
+"Parfait. Nos plans sont fixés. Si je parviens à lever ma propre armée, le "
+"château sera bientôt à nouveau à moi. Il me faut plus d'esclaves à mon "
+"service."
 
 #. [message]: id=Igor
 #: Kromire/scenarios/2Devilings.cfg:348
+#, fuzzy
 msgid "The only people who have humans would be other vampires."
-msgstr ""
+msgstr "Les seuls à avoir des humains, ce sont les autres vampires."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:352
+#, fuzzy
 msgid ""
 "(thinking) We'll have to either make a deal with one of the other vampire "
 "lords, or launch a surprise attack in an attempt to conquer his lands."
 msgstr ""
+"(réfléchisant) Deux pistes s'offrent à nous : faire un marché avec un autre "
+"seigneurs vampire ou lancer une attaque surprise pour s'emparer des terres "
+"de l'un d'entre eux."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:356
+#, fuzzy
 msgid ""
 "(still thinking) The two vampire lords that are close by would be the "
 "Michbies and the Valemois. Neither of which I would trust to keep a bargain, "
 "but both are stronger than we are now."
 msgstr ""
+"(réfléchissant toujours) Les deux clans vampires les plus proches sont les "
+"Michbie et les Valémoï. Je n'ai confiance dans la parole d'aucun des deux "
+"mais ils sont aussi plus forts que je le suis à cette heure."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:360
+#, fuzzy
 msgid ""
 "(Still thinking) I cannot bargain with either in my current state, so I will "
 "conquer the Michbies in order to have the power to bargain with Valemoi."
 msgstr ""
+"(réfléchissant toujours) je ne peux négocier avec aucun dans ma situation "
+"présente, aussi vais-je conquérir Michbie pour établir un meilleur rapport "
+"de force avec Valemoï."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/2Devilings.cfg:364
+#, fuzzy
 msgid "Prepare for battle, the house of Michbie will soon be no more."
-msgstr ""
+msgstr "Préparez-vous au combat, la maison des Michbie ne sera bientôt plus."
 
 #. [message]: id=Igor
 #: Kromire/scenarios/2Devilings.cfg:368
+#, fuzzy
 msgid "We obey."
-msgstr ""
+msgstr "À vos ordres."
 
 #. [side]: type=EOM_Noble, id=Michbie
 #. [scenario]: id=CK_Michbie
 #: Kromire/scenarios/3Michbie.cfg:6 Kromire/scenarios/3Michbie.cfg:44
+#, fuzzy
 msgid "Michbie"
-msgstr ""
+msgstr "Michbie"
 
 #. [part]
 #: Kromire/scenarios/3Michbie.cfg:87
+#, fuzzy
 msgid ""
 "I chose the Michbies because their family was the weaker of the two, and "
 "thus offered me the best chance of winning."
 msgstr ""
+"« Je choisis alors de marcher sur les Michbie car c'était la famille la plus "
+"faible des deux. La victoire me sourirait plus facilement."
 
 #. [part]
 #: Kromire/scenarios/3Michbie.cfg:90
+#, fuzzy
 msgid ""
 "Even though the keep was close, the time restraint placed by that Windsong "
 "warrior meant we marched with all haste."
 msgstr ""
+"Leur donjon était proche mais le peu de temps accordé par la guerrière de la "
+"Sapience nous obligeait à hâter le pas."
 
 #. [part]
 #: Kromire/scenarios/3Michbie.cfg:93
+#, fuzzy
 msgid ""
 "The words of that Windsong had made me wonder about what the prophecy of "
 "Mirian could contain that was so important. I resolved to read it when I had "
 "the chance."
 msgstr ""
+"Les paroles de la sœur de la Sapience avait attisé ma curiosité pour ce que "
+"contenait cette fameuse prophétie de Merrian. Je me résolus à la lire si "
+"j'en avais l'occasion."
 
 #. [part]
 #: Kromire/scenarios/3Michbie.cfg:96
+#, fuzzy
 msgid ""
 "As we neared the keep, I spread my men out and we attempted to approach with "
 "stealth, but we were discovered. Our advantage lost, our enemy made ready "
 "for us, and so I rallied my troops to do battle."
 msgstr ""
+"Lorsque nous arrivâmes en vue du donjon, je dispersai mes forces et nous "
+"tentâmes de nous approcher furtivement. Nous fûmes malheureusement découvert "
+"et nous perdîmes l'avantage de la surprise. L'ennemi se prépara au combat et "
+"il ne me restait plus qu'à rallier mes troupes pour l'affronter. »"
 
 #. [message]: id=Michbie
 #: Kromire/scenarios/3Michbie.cfg:116
+#, fuzzy
 msgid ""
 "So, little lordling, are you the new Count Kromire? I heard what happened, "
 "so do you come to my land as beggars or as potential slaves? I have enough "
 "pity for a fellow lord of the night, and I need a new valet. "
 msgstr ""
+"Ainsi, le petit nobliau qui se tient devant moi est le nouveau comte "
+"Kromire ? J'ai appris ce qui est advenu à votre clan. Est-ce en mendiants ou "
+"en futurs esclaves que vous venez sur mes terres ? Soit ! j'ai assez de "
+"pitié envers un des mes pairs seigneur de la nuit pour faire de vous mon "
+"nouveau valet."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/3Michbie.cfg:120
+#, fuzzy
 msgid "Silence! You will not be so arrogant when your heart is pierced."
 msgstr ""
+"Silence ! Vous ravalerez votre arrogance lorsque l'on vous percera le cœur."
 
 #. [message]: id=Michbie
 #: Kromire/scenarios/3Michbie.cfg:124
+#, fuzzy
 msgid ""
 "My my, quite feisty for a bat without a roost. I guess you are a bit "
 "irritable given your situation hmm? Your father was quite content to live "
 "fat and lazy off the labor and blood of his serfs, and never bothered to be "
 "wary of other dangers. Now you must pay the price for his lapse."
 msgstr ""
+"Mais, mais, mais, quelle hargne pour une chauve-souris sans griffe ! Je "
+"comprends que votre situation actuelle vous rende irritable, n'est-ce pas ? "
+"Votre père s'est complu à vivre grassement du labeur et du sang de ses serfs "
+"et ne s'est jamais préoccupé des menaces qui pesaient sur sa tête. Vous "
+"paiez maintenant le prix de sa négligence."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/3Michbie.cfg:128
+#, fuzzy
 msgid ""
 "My father has paid for his faults, and lies dead, his lands lost. As the new "
 "Count Kromire, I mean to be all that he was not, and I will reclaim my "
 "lands. I am here to establish myself as the new power among our kind. I will "
 "be the conquerer, and you my serf."
 msgstr ""
+"Mon père a payé pour ses fautes. Il est mort maintenant et ses terres sont "
+"tombées en des mains étrangères. Je suis le nouveau comte Kromire et je ne "
+"lui ressemblerais en rien. Je suis ici pour devenir le nouveau champion de "
+"notre race. Je serai le conquérant et vous serez mon esclave."
 
 #. [message]: id=Michbie
 #: Kromire/scenarios/3Michbie.cfg:132
+#, fuzzy
 msgid ""
 "Ah, the ignorance and arrogance of young pups knows no bounds. You've been "
 "given a taste of power, of responsibility, and you think. I see your forces, "
 "they are new to the blood, and few in number. You will die here."
 msgstr ""
+"Ah ! L'ignorance et l'arrogance des jeunes freluquets sont sans limite. "
+"Parce que vous avez gouté à un peu de pouvoir et de responsabilité, vous "
+"vous croyez invicible. Regardez vos troupes, elles sont nouvelles au sang et "
+"peu nombreuses. Cette terre sera votre tombeau.  "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/3Michbie.cfg:136
+#, fuzzy
 msgid ""
 "Speak with you sword, Michbie, and our disagreement will be more soundly "
 "settled. I relish the chance to drink you dry."
 msgstr ""
+"Usez de votre épée plutôt que de votre langue, Michbie, si vous voulez nous "
+"impressionner. Je me réjouis à l'idée de boire votre sang jusqu'à la "
+"dernière goutte. "
 
 #. [message]: id=Michbie
 #: Kromire/scenarios/3Michbie.cfg:140
+#, fuzzy
 msgid ""
 "Fool! I have given in to my strange fit of mercy, and I heard you out in an "
 "effort to spare you. No more! I will grant you your eternal sleep!"
 msgstr ""
+"Jeune fou ! Par quelle faiblesse de ma part ai-je consenti à vous écouter et "
+"à chercher à vous épargner. Plus un mot ! Je vais vous offrir un repos "
+"éternel. "
 
 #. [objective]: condition=win
 #: Kromire/scenarios/3Michbie.cfg:145
+#, fuzzy
 msgid "Slay Count Michbie"
-msgstr ""
+msgstr "Tuer le Comte Michbie"
 
 #. [message]: id=Michbie
 #: Kromire/scenarios/3Michbie.cfg:161
+#, fuzzy
 msgid ""
 "My people you must resist this invader! If he succeeds, he will not be "
 "content to lord over you, but he will turn you all!"
 msgstr ""
+"Peuple de Michbie, résistez à l'envahisseur ! S'il l'emporte, il ne se "
+"contentera pas de vous gouverner, il vous retournera tous !"
 
 #. [message]: type=Peasant
 #: Kromire/scenarios/3Michbie.cfg:207
+#, fuzzy
 msgid "Die you vampire fiend!"
-msgstr ""
+msgstr "Meurs, maudit vampire !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/3Michbie.cfg:211
+#, fuzzy
 msgid ""
 "Delusional cattle. They willingly use one darkness to protect them from "
 "another. Do not kill all of them, beat them down and break them, but leave "
 "them alive for later."
 msgstr ""
+"Pauvre troupeau sans cervelle. Pour fuir une ombre ténèbreuse, ils se "
+"mettent sous l'abri d'une autre. Ne les tuez pas tous ! Frappez-les, jetez-"
+"les à terre mais épargnez-les pour l'instant."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/3Michbie.cfg:222
+#, fuzzy
 msgid ""
 "It is done! Quickly, set up a perimeter, we must not let any of the serfs "
 "escape. I will need to turn all of them, and that will take time. Set up a "
 "guard, I will need protection while I work."
 msgstr ""
+"Voilà qui est fait ! Vite, investissez le village et ne laissez aucun serf "
+"s'échapper ! Je dois les retourner tous et cela va me prendre du temps. "
+"Montez la garde, il faut me protéger tant que je suis à l'ouvrage."
 
 #. [message]: id=Igor
-#: Kromire/scenarios/3Michbie.cfg:226 Kromire/scenarios/8Return.cfg:302
+#: Kromire/scenarios/8Return.cfg:302 Kromire/scenarios/3Michbie.cfg:226
+#, fuzzy
 msgid "Yeth master."
-msgstr ""
+msgstr "Gn'oui, Maîîître."
 
 #. [scenario]: id=CK_Counter
 #: Kromire/scenarios/4Counterattack.cfg:6
+#, fuzzy
 msgid "Counter"
-msgstr ""
+msgstr "Contre-attaque"
 
 #. [side]: type=EOM_Therian_Defender, id=Tleader
 #: Kromire/scenarios/4Counterattack.cfg:77
+#, fuzzy
 msgid "Therian captain"
-msgstr ""
+msgstr "Capitaine thérion"
 
 #. [side]: type=EOM_Pack_Leader, id=Wleader
 #: Kromire/scenarios/4Counterattack.cfg:90
+#, fuzzy
 msgid "Corian"
-msgstr ""
+msgstr "Corian"
 
 #. [part]
 #: Kromire/scenarios/4Counterattack.cfg:96
+#, fuzzy
 msgid ""
 "While I went through the process of converting the serfs into vampires, I "
 "also spent a little bit of extra time training some of them. It would be "
 "useful to have more members of my army proficient in blood magic. This was "
 "to prove useful very soon."
 msgstr ""
+"« Au cours de mon travail de conversion des serfs en vampires, je consacrais "
+"du temps supplémentaire à en former quelques uns. Mon armée devait "
+"comprendre des éléments maitrisant la magie du sang. La suite me donna "
+"rapidement raison."
 
 #. [part]
 #: Kromire/scenarios/4Counterattack.cfg:99
+#, fuzzy
 msgid ""
 "It had rained heavily all week, and so my normally sharp senses were "
 "deadened by the moisture. I had just finished with the last of those "
 "squirming fools when the smell of angry blood caught my nose. Enemies had "
 "come, and they were near!"
 msgstr ""
+"Nous avions subi de fortes pluies tout le long de la semaine et mes sens "
+"habituellement aiguisés étaient étouffés par l'humidité. Je venais juste "
+"d'achever de retourner le dernier de ces misérables pantins lorsqu'une odeur "
+"de sang en colère me frappa les narines. Des ennemis venaient vers nous et "
+"ils étaient proches ! »"
 
 #. [message]: id=Tleader
 #: Kromire/scenarios/4Counterattack.cfg:119
+#, fuzzy
 msgid ""
 "Did you think you would get away with trashing our village so easily, "
 "bloodsucker?"
 msgstr ""
+"Crois-tu que nous te laisserions dévaster notre village impunément, suceur "
+"de sang ?"
 
 #. [message]: id=Wleader
 #: Kromire/scenarios/4Counterattack.cfg:123
+#, fuzzy
 msgid "Those who would hurt our brothers, hurts us. We avenge our own."
 msgstr ""
+"Celui qui frappe mon frère me frappe pareillement. Nous vengerons les nôtres."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/4Counterattack.cfg:127
+#, fuzzy
 msgid ""
 "You are fools to come back. My strength is now twice what it was, and I have "
 "a whole army of followers to do my bidding. Do not expect mercy. It is time "
 "for the worms to feast on your flesh!"
 msgstr ""
+"Fous que vous êtes de venir me défier ! Mes forces sont deux fois "
+"supérieures à ce qu'elles étaient auparavant et j'ai une amée entière de "
+"suivants qui obéïssent à toutes mes volontés. N'attendez aucune pitié de ma "
+"part. D'ici peu, les vers se nourriront de vos cadavres !"
 
 #. [objective]: condition=win
-#: Kromire/scenarios/4Counterattack.cfg:132 Kromire/scenarios/5Time.cfg:647
 #: Kromire/scenarios/6Meetings.cfg:175
+#: Kromire/scenarios/4Counterattack.cfg:132 Kromire/scenarios/5Time.cfg:647
+#, fuzzy
 msgid "Defeat your foes"
-msgstr ""
+msgstr "Vaincre vos ennemis"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/4Counterattack.cfg:145
+#, fuzzy
 msgid ""
 "My children... I think it is time to pay a visit to count Valemoi. His death "
 "will give me the power I need to challenge the Celestials!"
 msgstr ""
+"Mes enfants… Je crois que le temps est venu de rendre visite au comte "
+"Valémoï. Je tirerai de sa mort la puissance nécessaire pour défier les "
+"Célestains !"
 
 #. [scenario]: id=CK_Time
 #: Kromire/scenarios/5Time.cfg:6
+#, fuzzy
 msgid "Valemoi"
-msgstr ""
+msgstr "Valémoï"
 
 #. [side]: type=EOM_Pack_Leader, id=Wleader
 #: Kromire/scenarios/5Time.cfg:46
+#, fuzzy
 msgid "Verwl"
-msgstr ""
+msgstr "Vérouel"
 
 #. [side]: type=EOM_Pack_Leader, id=Wleader2
 #: Kromire/scenarios/5Time.cfg:63
+#, fuzzy
 msgid "Crwa"
-msgstr ""
+msgstr "Croua"
 
 #. [side]: type=EOM_Djinn, id=Eleader
 #: Kromire/scenarios/5Time.cfg:79
+#, fuzzy
 msgid "Visine"
-msgstr ""
+msgstr "Visine"
 
 #. [side]: type=EOM_Rock_Golem, id=Eleader2
 #: Kromire/scenarios/5Time.cfg:97
+#, fuzzy
 msgid "Obsidian"
-msgstr ""
+msgstr "Obsidien"
 
 #. [side]: type=EOM_Sangel, id=Vleader
 #: Kromire/scenarios/5Time.cfg:115
+#, fuzzy
 msgid "Count Valemoi"
-msgstr ""
+msgstr "Comte Valémoï"
 
 #. [part]
 #: Kromire/scenarios/5Time.cfg:125
+#, fuzzy
 msgid ""
 "After finishing off the last defiant remnants, I led my army up into the "
 "mountains, towards the realm of Valemoi."
 msgstr ""
+"« Après avoir achevé les débris de l'armée adverse, je conduisis mes troupes "
+"à travers la montagne, vers le domaine de Valémoï."
 
 #. [part]
 #: Kromire/scenarios/5Time.cfg:128
+#, fuzzy
 msgid ""
 "I was eager to quickly conquer Valemoi, but we found that Valemoi was having "
 "trouble of his own already."
 msgstr ""
+"J'étais impatient de conquérir Valémoï mais il apparut que ce dernier "
+"faisait déjà face à quelques difficultés. » "
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:147
+#, fuzzy
 msgid "I can smell bad blood near..."
 msgstr ""
+"Quelle est donc cette odeur de sang nauséabonde qui vient m'importuner "
+"jusque dans mon château ?"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:151
+#, fuzzy
 msgid "You do not appear to be in a good position to insult, Lord Valemoi."
 msgstr ""
+"Vous situation actuelle me semble bien précaire pour vous permettre de "
+"lancer des insultes, Seigneur Valémoï."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:155
+#, fuzzy
 msgid ""
 "Kromire, this had better not be your doing. Your recent conquest has swelled "
 "your head, but your youthful fancies pale before the power I have "
 "accumulated over the years."
 msgstr ""
+"Kromire, ma situation vaut bien la vôtre. Vos récentes conquêtes vous sont "
+"montées à la tête mais votre jeunesse fait bien pâle figure devant la "
+"puissance que j'ai accumulée depuis des années. "
 
 #. [message]: id=Wleader
 #: Kromire/scenarios/5Time.cfg:159
+#, fuzzy
 msgid "We would never ally with your kind! The idea is despicable."
 msgstr ""
+"Jamais nous ne nous allierons avec des gens de votre sorte !  Cette simple "
+"idée nous répugne."
 
 #. [message]: id=Eleader
 #: Kromire/scenarios/5Time.cfg:163
+#, fuzzy
 msgid "...d...i....e..."
-msgstr ""
+msgstr "…m…e…u…r…s…"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:167
+#, fuzzy
 msgid ""
 "This is odd. Elementals do not form armies, nor do they hunt out vampires."
 msgstr ""
+"Diantre, c'est surprenant ! Les élémentaires ne forment pas d'armées "
+"habituellement, pas plus qu'ils ne chassent les vampires."
 
 #. [message]: id=Wleader2
 #: Kromire/scenarios/5Time.cfg:171
+#, fuzzy
 msgid ""
 "In the past no, but elements are the unspoken guardians of the world. They "
 "are more attuned than most, and they felt the threat posed by those who "
@@ -840,450 +1186,654 @@ msgid ""
 "their noble cause. We came to support them, and cast down you lords of "
 "darkness!"
 msgstr ""
+"Par le passé, non, mais les élémentaires sont les gardiens muets de ce monde "
+"et sont particulièrement sensibles à son harmonie. Lorsqu'ils ont senti la "
+"menace que faisaient peser les suceurs de vie comme vous sur toutes les "
+"créatures vivantes, ils se sont regroupés pour l'éliminer. Nous les avons vu "
+"en marche et nous n'avons pu que nous rallier à cette noble cause. Nous "
+"sommes venus les soutenir et vous jeter à bas, vous, les seigneurs des "
+"ténèbres ! "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:175
+#, fuzzy
 msgid ""
 "Ha! You know nothing of our kind. Regardless of what he does to his serfs, "
 "Valemoi is not a threat to the world. We live alone in our castles, lording "
 "over our peasants and biding our time. We have no dreams of world conquest."
 msgstr ""
+"Ah ! Décidément, vous ne savez rien de nous, les vampires ! Quelques soient "
+"les actes que Valémoï a pu commettre à l'encontre de ses serfs, il ne "
+"constitue en rien une menace pour le monde. Nous vivons seuls dans nos "
+"châteaux reculés passant notre temps à gouverner nos paysans dans l'attente "
+"qu'une bonne opportunité se présente. Nous n'entretenons aucun rêve de "
+"conquête."
 
 #. [message]: id=Wleader2
 #: Kromire/scenarios/5Time.cfg:179
+#, fuzzy
 msgid ""
 "Normally, no, but recently there has been much trouble stirring in your "
 "lands. We know that you have been displaced by the Celestials, and you may "
 "turn to Valemoi for aid. It is that unholy alliance that we are here to stop!"
 msgstr ""
+"Certes non jusqu'à présent mais votre pays vient de connaitre de nombreux "
+"soubresauts. Nous savons que vous avez été chassés par les Célestains et que "
+"vous êtes venus chercher de l'aide auprès de Valémoï. Nous sommes ici pour "
+"empêcher cette alliance maudite. "
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:183
+#, fuzzy
 msgid ""
 "Then you are misinformed of our kind, worm. We do not make alliances so "
 "easily. Valemoi, I do not have to fight these creatures, I could merely head "
 "back the way I came. You cannot run, for doing so would lose you your lands "
 "and your serfs, the loss of which would mean ruin to you."
 msgstr ""
+"Ha, ha ! Vous êtes bien mal informé sur notre compte, cloportes ! Nous ne "
+"faisons pas alliance si aisément. Valémoï, rien ne m'oblige à combattre ces "
+"créatures, je peux très bien m'en retourner comme je suis venu. Vous, vous "
+"ne pouvez pas vous enfuir car vous perdriez alors et vos terres et vos "
+"serfs. Cette perte signerait votre ruine."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:187
+#, fuzzy
 msgid "Get to the point."
-msgstr ""
+msgstr "Venez-en au fait !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:191
+#, fuzzy
 msgid ""
 "In exchange for whatever help you can give me defeating the celestials, I "
 "will save you from your sure defeat."
 msgstr ""
+"Je vous sauve d'une mort certaine et vous m'apporterez en échange toute "
+"l'aide que vous pourrez pour battre les Céléstains."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:195
+#, fuzzy
 msgid ""
 "Arrogant pup! I will show you your place some day, mark my words. But I "
 "cannot argue your truths. I do see my demise without your help. So be it. If "
 "we both survive this day, I will come to your side when you march on your "
 "keep."
 msgstr ""
+"Arrogant freluquet ! Un jour, je vous montrerai quelle est votre vraie "
+"place, souvenez-vous-en ! Mais je dois regarder la vérité en face. Sans "
+"votre aide, je ne suis plus… Alors, qu'il en soit ainsi ! Si nous survivons "
+"tous les deux à cette bataille, je marcherai à vos côtés pour reprendre "
+"votre château."
 
 #. [message]: id=Igor
 #: Kromire/scenarios/5Time.cfg:199
+#, fuzzy
 msgid "I would not thrtht him master. Heth will seethk to bethray us."
 msgstr ""
+"Gne ne lui fait pas confgn'iance, Maîîître. Gn'il cherchera à gn'ous trahir."
 
 #. [objective]: condition=lose
 #: Kromire/scenarios/5Time.cfg:655
+#, fuzzy
 msgid "Death of Valemoi"
-msgstr ""
+msgstr "Mort de Valémoï"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:680
+#, fuzzy
 msgid ""
 "His magic would have been an asset to our victory. No bother. We will win "
 "without him."
 msgstr ""
+"Sa connaissance de la magie nous aurait bien servi pour la victoire. Tant "
+"pis. Nous vaincrons sans elle."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:707 Kromire/scenarios/5Time.cfg:811
+#, fuzzy
 msgid ""
 "It seems as though the tide has turned. Kromire, prepare to suffer for your "
 "arrogance!"
 msgstr ""
+"Il semble que le vent a tourné. Kromine, tu vas payer pour ton arrogance !"
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:907
+#, fuzzy
 msgid "No!"
-msgstr ""
+msgstr "Noooon !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:911
+#, fuzzy
 msgid ""
 "His help may be useful in the future, but can I really trust someone who "
 "will so easily betray me. Is his proposed aid in my conquest worth letting "
 "him live?"
 msgstr ""
+"Son aide pourrait m'être précieuse pour la suite mais puis-je vraiment faire "
+"confiance à quelqu'un qui vient de me trahir aussi facilement ? Ce qu'il "
+"peut m'apporter vaut-il que je le laisse vivre ?"
 
 #. [option]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:913
+#, fuzzy
 msgid "No mercy"
-msgstr ""
+msgstr "Pas de pitié"
 
 #. [option]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:922
+#, fuzzy
 msgid "Let him live"
-msgstr ""
+msgstr "Épargnez-le"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:933
+#, fuzzy
 msgid "You should not have betrayed me."
-msgstr ""
+msgstr "Reçois le prix de ta trahison !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:939
+#, fuzzy
 msgid ""
 "I am not going to kill you just yet. There is still a battle to be won. "
 "Surrender your men to me, and let us drive out these intruders."
 msgstr ""
+"Valémoï, je ne vous tuerai pas maintenant. Nous devons encore remporter une "
+"bataille. Que vos troupes se rendent à moi et partons chasser ces "
+"envahisseurs."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:943
+#, fuzzy
 msgid "We surrender, and will only bear swords against your foes."
 msgstr ""
+"Nous nous rendons et nous ne tournerons nos épées que contre vos ennemis."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:963
+#, fuzzy
 msgid ""
 "Pity that Valemoi could not have been more useful. His line is dead, his "
 "house ended. Harvest his serfs, I will turn some of them for the army, and "
 "the rest shall be for feeding. Gather your strength my children, we are "
 "heading back to Kromire Castle soon."
 msgstr ""
+"Quel gâchis que Valémoï n'est pas pu nous être plus utile. Sa lignée est "
+"éteinte, son clan n'est plus. Rassemblez ses serfs, je vais en retourner "
+"quelques uns pour regarnir l'armée, les autres serviront à "
+"l'approvisionnement. Et reprennez des forces, mes enfants, car l'heure du "
+"retour au château des Kromire va bientôt sonner."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:969
+#, fuzzy
 msgid ""
 "Valemoi, though you betrayed me, I have seen fit to give you a chance to "
 "live. Serve me or die."
 msgstr ""
+"Valémoï, bien que vous m'ayez trahi je vous accorde encore une chance de "
+"survivre. La soumission ou la mort ! "
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:973
+#, fuzzy
 msgid ""
 "My forces are decimated, my lands torn apart. If I follow you, there will be "
 "nothing left to come back to, as my enemies will return again. Surely I can "
 "offer you something, some favor, so that you may leave me be."
 msgstr ""
+"Mes troupes sont décimées, mon pays est en ruine. Si je vous suis, je ne "
+"retrouverai rien à mon retour car mes ennemis reviendront un jour. Je peux "
+"assurément vous être utile, vous apporter quelques avantages si vous me "
+"laissiez la vie sauve."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:977
+#, fuzzy
 msgid ""
 "I do not know Valemoi, why don't you tell me? After all, you are the one "
 "with an interest in the result. I can as easily kill you now as take you "
 "with me."
 msgstr ""
+"Venez en au fait, Valémoï, que me proposez-vous ? Après tout, c'est vous qui "
+"avez intérêt à passer un marché. Moi, je peux facilement vous écraser "
+"maintenant que je vous tiens."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:981
+#, fuzzy
 msgid ""
 ".... I could teach your blood mages how to use their powers to animate "
 "stone, I could also construct abominations that would serve well in your "
 "army."
 msgstr ""
+"… Je peux appendre à vos mages du sang comment mettre les pierres en "
+"mouvement. Je peux aussi construire des abominations qui vous seront des "
+"auxiliaires précieux."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/5Time.cfg:985
+#, fuzzy
 msgid ""
 "Fine. In addition you must provide my men with nourishment, and lodging "
 "until we are ready to leave. I will spare your life for now, Valemoi, but do "
 "not forget that you live at my mercy."
 msgstr ""
+"Bien, marché conclu. En outre, vous vous chargerez de l'approvisionnement de "
+"mes troupes et de leur logement jusqu'à notre départ. J'épargne votre vie "
+"pour le moment, Valémoï, mais n'oubliez pas que vuos êtes à ma merci."
 
 #. [message]: id=Vleader
 #: Kromire/scenarios/5Time.cfg:989
+#, fuzzy
 msgid "So be it."
-msgstr ""
+msgstr "Qu'il en soit ainsi."
 
 #. [scenario]: id=CK_meetings
 #: Kromire/scenarios/6Meetings.cfg:6
+#, fuzzy
 msgid "Hard Rock Pass"
-msgstr ""
+msgstr "Un col escarpé"
 
 #. [side]: type=EOM_Devling_Soldier, id=Dleader
 #: Kromire/scenarios/6Meetings.cfg:46
+#, fuzzy
 msgid "Mocker"
-msgstr ""
+msgstr "Moqueur"
 
 #. [side]: type=EOM_Devling_Soldier, id=Dleader2
 #: Kromire/scenarios/6Meetings.cfg:63
+#, fuzzy
 msgid "Maker"
-msgstr ""
+msgstr "Farceur"
 
 #. [part]
 #: Kromire/scenarios/6Meetings.cfg:71
+#, fuzzy
 msgid ""
 "The battle did not end as I had hoped, but I made the most of it. I stayed a "
 "short time, just long enough to take as much from Valemoi's land as I "
 "needed. "
 msgstr ""
+"« La bataille ne s'était pas finie pas comme je l'avais espéré mais le plus "
+"dur était fait. Nous restâmes sur le territoire de Valémoï juste le temps "
+"nécessaire pour en tirer les ressources dont nous avions besoin."
 
 #. [part]
 #: Kromire/scenarios/6Meetings.cfg:74
+#, fuzzy
 msgid ""
 "The need for haste was upon me. The combined armies against Valemoi was an "
 "unexpected variable, and had slowed me down considerably. My time to meet up "
 "with the windsong was drawing closer, and so I set out with my army at a "
 "swift pace, heading towards Kromire Castle."
 msgstr ""
+"Nous étions pressés par le temps. L'attaque de ces armées rassemblées contre "
+"Valémoï n'était pas prévu et m'avait considérablement ralenti. L'heure de "
+"mon rendez-vous avec les Gnostiques se rapprochait, aussi avancions-nous à "
+"marche forcée, tout droit vers le château des Kromire."
 
 #. [part]
 #: Kromire/scenarios/6Meetings.cfg:77
+#, fuzzy
 msgid ""
 "With all my attention focused on speed, I did not watch my surroundings as "
 "closely as I should have. As we reached the pass, we found our way blocked."
 msgstr ""
+"Obnubilé par la vitesse de notre progression, je négligeai de prendre garde "
+"aux alentours. Lorsque nous atteignimes le col, la route était coupée. »"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:102 Kromire/scenarios/6Meetings.cfg:152
+#, fuzzy
 msgid "More devlings? They are thick on the ground this time of year."
-msgstr ""
+msgstr "Encore des dialotins ! Ils pullulent cette année."
 
 #. [message]: id=Igor
 #: Kromire/scenarios/6Meetings.cfg:106 Kromire/scenarios/6Meetings.cfg:156
+#, fuzzy
 msgid ""
 "Masther, when will we meeth the windsong? They did noth spethcify a "
 "lothcation. How will weth know wthere to go?"
 msgstr ""
+"Maîîre, quand retrouverons-gn'ous les Sœurs de la Sapience ? Elles ne gn'ous "
+"ont pas dis où. Comment saurons-gn'ous où aller ?"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:110
+#, fuzzy
 msgid ""
 "I do not doubt the windsong's capability in delivering their message when "
 "the time is right. I know not where to meet them, but I have no fear that "
 "they will not find us. We must crush these fools first, and continue on our "
 "way."
 msgstr ""
+"Je ne doute pas un instant de la capacité des Sœurs de la Sapience à nous "
+"délivrer leur message au moment venu. Je ne sais pas encore où nous les "
+"rencontrerons mais je suis sûr et certain qu'elles nous trouveront. Nous "
+"devons simplement continuer notre chemin après avoir écraser ces nuisibles."
 
 #. [unit]: type=EOM_Blood_Hulk, id=Grumbler
 #: Kromire/scenarios/6Meetings.cfg:118
+#, fuzzy
 msgid "Grumbler"
-msgstr ""
+msgstr "Grogneur"
 
 #. [unit]: type=EOM_Blood_Hulk, id=Healger
 #: Kromire/scenarios/6Meetings.cfg:130
+#, fuzzy
 msgid "Healger"
-msgstr ""
+msgstr "Massacreur"
 
 #. [unit]: type=EOM_Blood_Hulk, id=Ripper
 #: Kromire/scenarios/6Meetings.cfg:142
+#, fuzzy
 msgid "Ripper"
-msgstr ""
+msgstr "Éventreur"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:160
+#, fuzzy
 msgid ""
 "I do not doubt the windsong's capability in delivering their message when "
 "the time is right. I know not where to meet them, but I have no fear that "
 "they will not find us. We must crush these fools first, and continue on our "
 "way. The constructs that Valemoi constructed will be perfect for this task."
 msgstr ""
+"Je ne doute pas un instant de la capacité des Sœurs de la Sapience à nous "
+"délivrer leur message au moment venu. Je ne sais pas encore où nous les "
+"rencontrerons mais je suis sûr et certain qu'elles nous trouveront. Nous "
+"devons simplement continuer notre chemin après avoir écraser ces nuisibles. "
+"Les petites créations de Valémoï rempliront parfaitement cette tâche."
 
 #. [message]: id=Ripper
 #: Kromire/scenarios/6Meetings.cfg:164
+#, fuzzy
 msgid "Graw! Fresh Meat!"
-msgstr ""
+msgstr "Graoo ! Viande fraiche !"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:188
+#, fuzzy
 msgid "Someone is coming towards us quickly from the north. To arms!"
 msgstr ""
+"Quelqu'un arrive du nord rapidement. Il se dirige droit sur nous . Soyez "
+"prêts à faire front !"
 
 #. [message]: id=Herra
 #: Kromire/scenarios/6Meetings.cfg:199
+#, fuzzy
 msgid "Lisaundra the Oathkeeper sends you greetings, and a message."
 msgstr ""
+"Lisandra la gardienne des serments vous salue ! Je vous apporte un message "
+"de sa part."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:203
+#, fuzzy
 msgid "Speak."
-msgstr ""
+msgstr "Parlez."
 
 #. [message]: id=Herra
 #: Kromire/scenarios/6Meetings.cfg:207
+#, fuzzy
 msgid ""
 "She bids you to meet her where you first met, and to be prepared to attack "
 "the celestials. I have been assigned to guide you on your way back, until "
 "the Celestials are routed."
 msgstr ""
+"Elle vous demande de la retrouver là où vous vous êtes rencontrés la "
+"première fois et d'être prêt à attaquer les Céléstains. J'ai pour mission de "
+"vous servir de guide tout au long du chemin de retour, jusqu'à ce que les "
+"Célestains soient vaincus."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:211
+#, fuzzy
 msgid ""
 "I accept your fealty, however temporary. Help us strike down these fools."
 msgstr ""
+"J'accepte votre allégeance, même temporaire. Joignez-vous à vous pour "
+"écraser cette vermine."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/6Meetings.cfg:218
+#, fuzzy
 msgid ""
 "Excellent. Quickly my children, let us drive on! The castle is within our "
 "grasp."
 msgstr ""
+"Parfait. Dépéchez-vous les enfants, reprenons la route ! Le château nous "
+"attend."
 
 #. [scenario]: id=CK_Alliance
 #: Kromire/scenarios/7Alliance.cfg:6
+#, fuzzy
 msgid "Alliance"
-msgstr ""
+msgstr "Alliance"
 
 #. [side]: type=EOM_Oathkeeper, id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:44 Kromire/scenarios/8Return.cfg:46
+#, fuzzy
 msgid "Lisaundra"
-msgstr ""
+msgstr "Lisandra"
 
 #. [part]
 #: Kromire/scenarios/7Alliance.cfg:49
+#, fuzzy
 msgid "I marched back to the crossing as quickly as I could."
 msgstr ""
+"Je retournai alors aussi vite que possible sur les lieux de ma première "
+"rencontre avec Lisandra."
 
 #. [part]
 #: Kromire/scenarios/7Alliance.cfg:52
+#, fuzzy
 msgid ""
 "During the trip we were attacked a couple times by rouge monsters and "
 "elementals, neither of which could harm us."
 msgstr ""
+"Bêtes sauvages et élémentaires nous attaquèrent à plusieurs reprises lors "
+"notre périple mais sans nous causer de réels dommages."
 
 #. [part]
 #: Kromire/scenarios/7Alliance.cfg:55
+#, fuzzy
 msgid ""
 "I did not like these indicators, it hinted at something coming that I could "
 "not see. I am sure it has something to do with this prophecy that the "
 "windsong are seeking. I intend to make sure that I get a glimpse of it "
 "before the windsong can take it away."
 msgstr ""
+"Ces attaques m'apparaissaient surtout comme les signes avant-coureurs "
+"d'événements dont la portée m'échappait.  J'étais convaincu qu'ils avaient "
+"un rapport avec la prophétie que recherchaient les Sœurs de la Sapience et "
+"je me faisais fort d'en prendre connaissance avant que ces dernières ne "
+"l'emportassent au loin."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:75
+#, fuzzy
 msgid "I have been waiting."
-msgstr ""
+msgstr "Je vous attendais."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/7Alliance.cfg:79
-msgid "Forgive my truency, I was delayed on the road."
-msgstr ""
+#, fuzzy
+msgid "Forgive my truancy, I was delayed on the road."
+msgstr "Pardonnez mon manque de ponctualité, j'ai été retardé sur la route."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:83
+#, fuzzy
 msgid ""
 "I was forced to leave the gatekeeper caste behind in my need to obtain the "
 "scroll quickly. There have been strange occurrences."
 msgstr ""
+"J'ai été forcée de laisser mes sœurs gardiennes derrière moi, leur lenteur "
+"m'auraient freinée dans la recherche du parchemin. J'ai été confrontée à "
+"d'étranges événements."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/7Alliance.cfg:87
+#, fuzzy
 msgid ""
 "I too have beheld such occurances. Devlings rarely vist these moutains, and "
 "elementals don't usually manifest in armies."
 msgstr ""
+"J'ai eu à affonter ces étranges évènements également. Les diablotins "
+"visitent rarement ces montagnes et les élementaires n'ont pas l'habitude de "
+"former des bataillons."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:91
+#, fuzzy
 msgid ""
 "I have not seen armies of elementals, but I have seen therians working along "
 "side walking dead."
 msgstr ""
+"Je n'ai pas vu d'armées d'élementaires mais j'ai vu des thérions marchant "
+"avec des morts-vivants."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/7Alliance.cfg:95
+#, fuzzy
 msgid ""
 "There have been no necromancers for a very long time, that magic was lost, "
 "and for a good reason. I can't imagine any therian searching for it, or "
 "working beside its creations."
 msgstr ""
+"Les nécormanciens ont disparu depuis bien longtemps, cette magie est perdue "
+"et c'est tant mieux. Je ne peux pas imaginer un thérion s'intéressant à elle "
+"ou coopérant avec une de ses émanations."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:99
+#, fuzzy
 msgid ""
 "I saw it with my own eyes, and felt their bones under my fist. They were all "
 "maddened like warg with Raven Flu, and I could not get a clue from them, and "
 "I could not capture them for they would kill themselves. They are all dead "
 "now, and their remains burned."
 msgstr ""
+"Je l'ai vu de mes propres yeux et senti leurs os sous mes poings. Ils "
+"étaient tous rendus fous par la fièvre corvique tout comme les lyconiens et "
+"je n'ai pas pu obtenir d'eux un seul renseignement. Et ils se suicidaient "
+"plutôt que de se laisser capturer. Ils sont tous morts maintenant et j'ai "
+"brulé leurs dépouilles."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/7Alliance.cfg:103
+#, fuzzy
 msgid ""
 "I do not know how to take this news. Let us not dwell on the problem, but "
 "rather search for the answer if you are ready to march then I am too."
 msgstr ""
+"Je ne sais comment interpréter ces nouvelles. Ne nous appesantissons pas sur "
+"ce problème et partons plutôt dès maintenant à la recherche de la réponse si "
+"vous êtes, comme moi,  prête à prendre la route."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/7Alliance.cfg:107
+#, fuzzy
 msgid "Then let us be off."
-msgstr ""
+msgstr "Qu'il en soit ainsi. Levons le camp."
 
 #. [scenario]: id=CK_Return
 #: Kromire/scenarios/8Return.cfg:6
+#, fuzzy
 msgid "Return to Kromire Castle"
-msgstr ""
+msgstr "Retour au château des Kromire"
 
 #. [side]: type=EOM_Great_Wizard, id=cleader
 #: Kromire/scenarios/8Return.cfg:58
+#, fuzzy
 msgid "Pythagorus"
-msgstr ""
+msgstr "Pythagorus"
 
 #. [side]: type=EOM_Claimant, id=cleader2
 #: Kromire/scenarios/8Return.cfg:73
+#, fuzzy
 msgid "Incarius"
-msgstr ""
+msgstr "Incarius"
 
 #. [part]
 #: Kromire/scenarios/8Return.cfg:82
+#, fuzzy
 msgid ""
 "Despite my desire for haste, we took the time to march around to attack the "
 "castle from the south. While it put us further from our objective, it let us "
 "fight over the hills and roads instead of trying to wade through snow."
 msgstr ""
+"En dépit de ma hâte, nous prîmes le temps de contourner le château afin de "
+"l'attaquer par le sud. Certes, cela nous éloignait de notre objectif mais "
+"cela nous permettait de combattre sur un terrain dégagé plutôt que de nous "
+"enliser dans la neige. "
 
 #. [part]
 #: Kromire/scenarios/8Return.cfg:85
+#, fuzzy
 msgid ""
 "At least, this was the reason I gave my troops and the Windsong. It was also "
 "the way that I fled when I had left."
 msgstr ""
+"Ce fut en tout cas l'explication que je donnais à mes troupes et à la "
+"guerrière de la Sapience. Car c'était aussi la route par laquelle j'avais "
+"fui le château."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:105
+#, fuzzy
 msgid ""
 "Though I fled in shame, I return with strength to reclaim my own. It appears "
 "they have begun constructing a new castle of their own to replace the one "
 "where my father died."
 msgstr ""
+"Ainsi, si j'avais fuit honteusement, je revenais en force pour reprendre mon "
+"bien. Nous constatâmes qu'ils avaient commencé la construction d'un nouveau "
+"château pour remplacer celui dans lequel mon père était tombé."
 
 #. [message]: id=cleader
 #: Kromire/scenarios/8Return.cfg:109
+#, fuzzy
 msgid ""
 "Incarius, there is an army advancing from the south. They are vampires in "
 "Kromire livery, and marching alongside Windsong warriors."
 msgstr ""
+"Incarius, une armée avance sur nous par le sud. Ce sont des vampires qui "
+"portent la livrée des Kromire et des guerrières de la Sapience marchent à "
+"leurs côtés."
 
 #. [message]: id=cleader2
 #: Kromire/scenarios/8Return.cfg:113
+#, fuzzy
 msgid ""
 "Quick, send word to the prophet, and bring him back. Tell him the vampire "
 "scourge has returned. We will try to hold them off."
 msgstr ""
+"Vite !Envoyez un message au prophète. Dites-lui que la plaie vampire est "
+"revenue et que nous allons tout faire pour les retenir."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/8Return.cfg:117
+#, fuzzy
 msgid "Surrender the prophecy of Merrian to us."
-msgstr ""
+msgstr "Rendez-nous la prophétie de Merriam."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:121
+#, fuzzy
 msgid "And my castle."
-msgstr ""
+msgstr "Et mon château."
 
 #. [message]: id=cleader
 #: Kromire/scenarios/8Return.cfg:125
+#, fuzzy
 msgid ""
 "Your castle little blood lord? I believe I am standing in it, and that makes "
 "it mine, does it not? So no, I will not surrender my castle. Nor would I "
@@ -1292,83 +1842,123 @@ msgid ""
 "is I do not even know where this 'prophecy' is, so I could not surrender it "
 "to you, now could I?"
 msgstr ""
+"Ton château, petit seigneur sanguinaire ? Je crois que je suis installé "
+"dedans et cela en fait ma propriété, n'est-ce pas ? Non, non, je ne livrerai "
+"pas mon château. Pas plus que je ne livrerai quoi que soit en ma possession "
+"à quiconque s'allie à ta race maudite. Nous sommes les guerriers de la "
+"lumière et nous ne craignons pas les ténèbres qui t'accompagnent. Quant à "
+"cette « prophétie » dont je n'ai jamais entendu parler, comment pourrais-je "
+"vous livrer ce que je ne possède pas ?"
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/8Return.cfg:129
+#, fuzzy
 msgid ""
 "I do not care if you fear me or not. I will crush your body so that it no "
 "longer blocks my path."
 msgstr ""
+"Peu m'importe que vous me craignez ou non. Je marcherai sur votre cadavre "
+"puisque vous vous mettez sur mon chemin."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:133
+#, fuzzy
 msgid ""
 "You may stand in the castle now, but by the time the dark moon rises you "
 "will stand no longer."
 msgstr ""
+"Fanfaronnez tout à votre aise tant qu'il est encore temps. Vous tomberez "
+"avant la nouvelle lune. "
 
 #. [objective]: condition=win
 #: Kromire/scenarios/8Return.cfg:138 Kromire/scenarios/8Return.cfg:266
+#, fuzzy
 msgid "Reclaim your lands"
-msgstr ""
+msgstr "Reprendre vos terres"
 
 #. [message]: id=cleader
 #: Kromire/scenarios/8Return.cfg:157
+#, fuzzy
 msgid ""
 "Uhw... You may have broken my body, but you shall not achieve your objective."
-msgstr ""
+msgstr "Argh... vous m'avez vaincu mais vous ne savourerez pas votre victoire."
 
 #. [message]: speaker=narrator
 #: Kromire/scenarios/8Return.cfg:193
+#, fuzzy
 msgid ""
 "As his strength flees his body, the wizard utters a final spell. Flames "
 "spring into life throughout the castle, burning even through stone, and "
 "within an hour the castle is a smoldering ruin."
 msgstr ""
+"Alors que ses forces le quittait, le sorcier lança un dernier sort. Des "
+"flammes jaillirent dans le château de tout côté, brulant la pierre même et "
+"transformant en moins d'une heure le château en ruine fumante. "
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/8Return.cfg:198
+#, fuzzy
 msgid ""
 "Anyone who would stoop to burning writings deserves to die. This abomination "
 "shall not go unpunished."
 msgstr ""
+"Quiconque brule des écrits ne mérite que la mort. Ce crime ne restera pas "
+"impuni."
 
 #. [message]: id=cleader2
 #: Kromire/scenarios/8Return.cfg:208
+#, fuzzy
 msgid ""
 "Freemen of this land, do you remember the yoke your shoulders bore under the "
 "reign of the vampires? If we fall to these invaders then it will once again "
 "fall on you. Fight for your freedom."
 msgstr ""
+"Hommes libres de ce pays, souvenez-vous du joug qui pesait sur vos épaules "
+"sous le règne des vampire ? SI nous tombons face à ces envahisseurs, vous "
+"retomberez en esclavage. Battez-vous pour votre liberté."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:261
+#, fuzzy
 msgid ""
 "Kill as few of those as is at all possible, their labor will help make us "
 "strong. I will not see my lands ruined like that of Valemoi. Once the "
 "celestials are defeated it will be a simple task to subject them to my will, "
 "but I will need them alive."
 msgstr ""
+"Tuez le moins de paysans possible ! Nous avons besoin de leur travail pour "
+"nous rednre fort et je ne veux pas voir mes terres ruinées comme celles de "
+"Valémoï. Lorsque nous aurons vaincu les célestains, il me sera aisé de les "
+"soumettre à mes volontés. Aussi me les faut-il vivants ! "
 
 #. [objective]: condition=win
 #: Kromire/scenarios/8Return.cfg:270
+#, fuzzy
 msgid "Kill as few peasants as possible(Bonus)"
-msgstr ""
+msgstr "Tuer le moins de paysans possible (bonus)"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:286
+#, fuzzy
 msgid "I express my sympathies over the loss of the object of your quest."
 msgstr ""
+"Je vous présente toutes mes condoléances pour la perte de l'objet de votre "
+"quête."
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/8Return.cfg:290
+#, fuzzy
 msgid ""
 "The scrolls the prophesies are written are not so easily destroyed. I'll "
 "just have to sort through the wreckage until I find it."
 msgstr ""
+"La prophétie est écrite sur des parchemins qui ne se détruisent pas aussi "
+"facilement. Il ne me reste qu'à fouiller dans les décombres jusqu'à ce que "
+"je les trouve."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:294
+#, fuzzy
 msgid ""
 "I wish you luck in your endeavor. If it is anywhere, it will be in the deep "
 "catacombs near the south wall of the castle. (This is going to take her "
@@ -1376,6 +1966,12 @@ msgid ""
 "supports gone, each crypt will have to be dug out separately, and she does "
 "not know which is the right one)."
 msgstr ""
+"Je vous souhaite bonne chance dans votre entreprise. Si jamais la prophétie "
+"se trouve ici, ce ne peut être que dans les profondes catacombes près du mur "
+"sud du château. (Cela va l'occuper un moment. Les catacombes ne sont pas "
+"étendues mais très profondes. Suite à l'effondremment de tous les plafonds, "
+"les cryptes devront être déblayées une par une et elle ne sait pas quelle "
+"est la bonne)."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/8Return.cfg:298
@@ -1391,8 +1987,9 @@ msgstr ""
 
 #. [scenario]: id=CK_Prophecy
 #: Kromire/scenarios/9Prophecy.cfg:6
+#, fuzzy
 msgid "Prophets Blood"
-msgstr ""
+msgstr "Le sang des prophètes"
 
 #. [side]: type=EOM_Prophet, id=prophet
 #: Kromire/scenarios/9Prophecy.cfg:46
@@ -1455,8 +2052,9 @@ msgstr ""
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/9Prophecy.cfg:124
+#, fuzzy
 msgid "There are so many... Summon Lisaundra."
-msgstr ""
+msgstr "Ils sont si nombreux… Appelle Lisandra."
 
 #. [message]: id=Igor
 #: Kromire/scenarios/9Prophecy.cfg:128
@@ -1465,8 +2063,9 @@ msgstr ""
 
 #. [message]: id=Lisaundra
 #: Kromire/scenarios/9Prophecy.cfg:145
+#, fuzzy
 msgid "I still have not found it."
-msgstr ""
+msgstr "Je ne l'ai toujours pas trouvé."
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/9Prophecy.cfg:149
@@ -1529,8 +2128,9 @@ msgstr ""
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/9Prophecy.cfg:212
+#, fuzzy
 msgid "Don't you have better things to be doing?"
-msgstr ""
+msgstr "Vous n'avez rien de mieux à faire ?"
 
 #. [message]: id=Valemoi
 #: Kromire/scenarios/9Prophecy.cfg:216
@@ -1550,8 +2150,9 @@ msgstr ""
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/9Prophecy.cfg:246
+#, fuzzy
 msgid ".... This is different..."
-msgstr ""
+msgstr "… C'est différent …"
 
 #. [message]: id=Kromire
 #: Kromire/scenarios/9Prophecy.cfg:250
@@ -1672,27 +2273,35 @@ msgstr ""
 
 #. [trait]: id=legend
 #: Kromire/utils/traits.cfg:6
+#, fuzzy
 msgid "legendary"
-msgstr ""
+msgstr "légendaire"
 
 #. [trait]: id=legend
 #: Kromire/utils/traits.cfg:7
+#, fuzzy
 msgid "female^legendary"
-msgstr ""
+msgstr "légendaire"
 
 #. [trait]: id=legend
 #: Kromire/utils/traits.cfg:8
+#, fuzzy
 msgid ""
 "Some people are simply incredible. They seem to have an edge in every area "
 "over others. Such units benefit from all standard traits."
 msgstr ""
+"Certaines personnes sont tout simplement exceptionnelles. Elles semblent "
+"être supérieures à tous en toute chose. Ces unités bénéficient de toutes les "
+"traits standards."
 
 #. [message]: id=Kromire
 #: Kromire/utils/utils.cfg:88
+#, fuzzy
 msgid "My line ends..."
-msgstr ""
+msgstr "Ma lignée s'éteint avec moi…"
 
 #. [message]: id=Igor
 #: Kromire/utils/utils.cfg:101
+#, fuzzy
 msgid "Uh!...."
-msgstr ""
+msgstr "Aïe…"
